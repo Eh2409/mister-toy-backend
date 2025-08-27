@@ -1,0 +1,290 @@
+[
+  {
+    "_id": "t1",
+    "name": "Naruto Uzumaki Action Figure",
+    "imgUrl": "https://example.com/naruto-figure.jpg",
+    "price": 39.99,
+    "brands": [
+      "Naruto"
+    ],
+    "productTypes": [
+      "Action Figure"
+    ],
+    "companies": [
+      "Bandai"
+    ],
+    "inStock": true,
+    "description": "Highly detailed Naruto Uzumaki action figure with multiple accessories.",
+    "createdAt": 1693123200000
+  },
+  {
+    "_id": "t2",
+    "name": "Dragon Ball Goku Nendoroid",
+    "imgUrl": "https://example.com/goku-nendo.jpg",
+    "price": 54.99,
+    "brands": [
+      "Dragon Ball"
+    ],
+    "productTypes": [
+      "Nendoroid"
+    ],
+    "companies": [
+      "Good Smile Company"
+    ],
+    "inStock": true,
+    "description": "Cute chibi-style Goku Nendoroid with interchangeable faces.",
+    "createdAt": 1693209600000
+  },
+  {
+    "_id": "t3",
+    "name": "One Piece Luffy Model Kit",
+    "imgUrl": "https://example.com/luffy-model.jpg",
+    "price": 29.99,
+    "brands": [
+      "One Piece"
+    ],
+    "productTypes": [
+      "Model Kit"
+    ],
+    "companies": [
+      "Bandai"
+    ],
+    "inStock": true,
+    "description": "Assemble Monkey D. Luffy with this fun One Piece model kit.",
+    "createdAt": 1693296000000
+  },
+  {
+    "_id": "t4",
+    "name": "Demon Slayer Nezuko Plush Toy",
+    "imgUrl": "https://example.com/nezuko-plush.jpg",
+    "price": 24.99,
+    "brands": [
+      "Demon Slayer"
+    ],
+    "productTypes": [
+      "Plush Toy"
+    ],
+    "companies": [
+      "Banpresto"
+    ],
+    "inStock": true,
+    "description": "Soft and cuddly Nezuko plush toy, perfect for fans.",
+    "createdAt": 1693382400000
+  },
+  {
+    "_id": "t5",
+    "name": "My Hero Academia All Might Statue",
+    "imgUrl": "https://example.com/allmight-statue.jpg",
+    "price": 79.99,
+    "brands": [
+      "My Hero Academia"
+    ],
+    "productTypes": [
+      "Statue"
+    ],
+    "companies": [
+      "Kotobukiya"
+    ],
+    "inStock": true,
+    "description": "Premium All Might statue in heroic pose.",
+    "createdAt": 1693468800000
+  },
+  {
+    "_id": "t6",
+    "name": "Naruto Kakashi Nendoroid",
+    "imgUrl": "https://example.com/kakashi-nendo.jpg",
+    "price": 49.99,
+    "brands": [
+      "Naruto"
+    ],
+    "productTypes": [
+      "Nendoroid"
+    ],
+    "companies": [
+      "Good Smile Company"
+    ],
+    "inStock": true,
+    "description": "Adorable Kakashi Hatake Nendoroid with book accessory.",
+    "createdAt": 1693555200000
+  },
+  {
+    "_id": "t7",
+    "name": "Dragon Ball Vegeta Action Figure",
+    "imgUrl": "https://example.com/vegeta-figure.jpg",
+    "price": 44.99,
+    "brands": [
+      "Dragon Ball"
+    ],
+    "productTypes": [
+      "Action Figure"
+    ],
+    "companies": [
+      "Bandai"
+    ],
+    "inStock": false,
+    "description": "Super Saiyan Vegeta figure with battle-damaged look.",
+    "createdAt": 1693641600000
+  },
+  {
+    "_id": "t8",
+    "name": "One Piece Zoro Statue",
+    "imgUrl": "https://example.com/zoro-statue.jpg",
+    "price": 69.99,
+    "brands": [
+      "One Piece"
+    ],
+    "productTypes": [
+      "Statue"
+    ],
+    "companies": [
+      "Kotobukiya"
+    ],
+    "inStock": true,
+    "description": "Dynamic Roronoa Zoro statue with swords drawn.",
+    "createdAt": 1693728000000
+  },
+  {
+    "_id": "t9",
+    "name": "Demon Slayer Tanjiro Model Kit",
+    "imgUrl": "https://example.com/tanjiro-model.jpg",
+    "price": 34.99,
+    "brands": [
+      "Demon Slayer"
+    ],
+    "productTypes": [
+      "Model Kit"
+    ],
+    "companies": [
+      "Bandai"
+    ],
+    "inStock": true,
+    "description": "Build and display your own Tanjiro Kamado figure.",
+    "createdAt": 1693814400000
+  },
+  {
+    "_id": "t10",
+    "name": "My Hero Academia Deku Plush Toy",
+    "imgUrl": "https://example.com/deku-plush.jpg",
+    "price": 22.99,
+    "brands": [
+      "My Hero Academia"
+    ],
+    "productTypes": [
+      "Plush Toy"
+    ],
+    "companies": [
+      "Funko"
+    ],
+    "inStock": true,
+    "description": "Soft Izuku Midoriya plush toy for MHA fans.",
+    "createdAt": 1693900800000
+  },
+  {
+    "_id": "t11",
+    "name": "Naruto Sasuke Statue",
+    "imgUrl": "https://example.com/sasuke-statue.jpg",
+    "price": 74.99,
+    "brands": [
+      "Naruto"
+    ],
+    "productTypes": [
+      "Statue"
+    ],
+    "companies": [
+      "Kotobukiya"
+    ],
+    "inStock": true,
+    "description": "Epic Sasuke Uchiha statue with Chidori effect.",
+    "createdAt": 1693987200000
+  },
+  {
+    "_id": "t12",
+    "name": "Dragon Ball Piccolo Plush Toy",
+    "imgUrl": "https://example.com/piccolo-plush.jpg",
+    "price": 26.99,
+    "brands": [
+      "Dragon Ball"
+    ],
+    "productTypes": [
+      "Plush Toy"
+    ],
+    "companies": [
+      "Banpresto"
+    ],
+    "inStock": false,
+    "description": "Green and soft Piccolo plush toy collectible.",
+    "createdAt": 1694073600000
+  },
+  {
+    "_id": "t13",
+    "name": "One Piece Chopper Nendoroid",
+    "imgUrl": "https://example.com/chopper-nendo.jpg",
+    "price": 42.99,
+    "brands": [
+      "One Piece"
+    ],
+    "productTypes": [
+      "Nendoroid"
+    ],
+    "companies": [
+      "Good Smile Company"
+    ],
+    "inStock": true,
+    "description": "Cute Tony Tony Chopper Nendoroid with hat accessory.",
+    "createdAt": 1694160000000
+  },
+  {
+    "_id": "t14",
+    "name": "Demon Slayer Zenitsu Action Figure",
+    "imgUrl": "https://example.com/zenitsu-figure.jpg",
+    "price": 38.99,
+    "brands": [
+      "Demon Slayer"
+    ],
+    "productTypes": [
+      "Action Figure"
+    ],
+    "companies": [
+      "Bandai"
+    ],
+    "inStock": true,
+    "description": "Zenitsu Agatsuma figure in Thunder Breathing pose.",
+    "createdAt": 1694246400000
+  },
+  {
+    "_id": "t15",
+    "name": "My Hero Academia Bakugo Model Kit",
+    "imgUrl": "https://example.com/bakugo-model.jpg",
+    "price": 32.99,
+    "brands": [
+      "My Hero Academia"
+    ],
+    "productTypes": [
+      "Model Kit"
+    ],
+    "companies": [
+      "Bandai"
+    ],
+    "inStock": true,
+    "description": "Assemble explosive Katsuki Bakugo with this model kit.",
+    "createdAt": 1694332800000
+  },
+  {
+    "_id": "t16",
+    "name": "Naruto Gaara Plush Toy",
+    "imgUrl": "https://example.com/gaara-plush.jpg",
+    "price": 27.99,
+    "brands": [
+      "Naruto"
+    ],
+    "productTypes": [
+      "Plush Toy"
+    ],
+    "companies": [
+      "Banpresto"
+    ],
+    "inStock": true,
+    "description": "Soft Gaara plush with gourd detail.",
+    "createdAt": 1694419200000
+  }
+]
