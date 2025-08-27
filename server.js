@@ -41,8 +41,6 @@ app.get('/api/toy', (req, res) => {
         pageIdx: +req.query.pageIdx || undefined
     }
 
-    console.log('filterBy:', filterBy)
-
     toyService.query(filterBy)
         .then(data => res.send(data))
         .catch(err => {
