@@ -2,7 +2,7 @@
     {
         "_id": "t1",
         "name": "Naruto Uzumaki Action Figure",
-        "imgUrl": "https://example.com/naruto-figure.jpg",
+        "imgUrl": "/public/images/toys/t1.jpg",
         "price": 39.99,
         "brands": [
             "Naruto"
@@ -15,12 +15,12 @@
         ],
         "inStock": true,
         "description": "Highly detailed Naruto Uzumaki action figure with multiple accessories.",
-        "createdAt": 1693123200000
+        "createdAt": 1694419200000
     },
     {
         "_id": "t2",
         "name": "Dragon Ball Goku Nendoroid",
-        "imgUrl": "https://example.com/goku-nendo.jpg",
+        "imgUrl": "/public/images/toys/t2.jpg",
         "price": 54.99,
         "brands": [
             "Dragon Ball"
@@ -38,7 +38,7 @@
     {
         "_id": "t3",
         "name": "One Piece Luffy Model Kit",
-        "imgUrl": "https://example.com/luffy-model.jpg",
+        "imgUrl": "/public/images/toys/t3.jpg",
         "price": 29.99,
         "brands": [
             "One Piece"
@@ -56,7 +56,7 @@
     {
         "_id": "t4",
         "name": "Demon Slayer Nezuko Plush Toy",
-        "imgUrl": "https://example.com/nezuko-plush.jpg",
+        "imgUrl": "/public/images/toys/t4.jpg",
         "price": 24.99,
         "brands": [
             "Demon Slayer"
@@ -74,7 +74,7 @@
     {
         "_id": "t5",
         "name": "My Hero Academia All Might Statue",
-        "imgUrl": "https://example.com/allmight-statue.jpg",
+        "imgUrl": "/public/images/toys/t5.jpg",
         "price": 79.99,
         "brands": [
             "My Hero Academia"
@@ -92,7 +92,7 @@
     {
         "_id": "t6",
         "name": "Naruto Kakashi Nendoroid",
-        "imgUrl": "https://example.com/kakashi-nendo.jpg",
+        "imgUrl": "/public/images/toys/t6.jpg",
         "price": 49.99,
         "brands": [
             "Naruto"
@@ -103,14 +103,14 @@
         "companies": [
             "Good Smile Company"
         ],
-        "inStock": true,
+        "inStock": false,
         "description": "Adorable Kakashi Hatake Nendoroid with book accessory.",
         "createdAt": 1693555200000
     },
     {
         "_id": "t7",
         "name": "Dragon Ball Vegeta Action Figure",
-        "imgUrl": "https://example.com/vegeta-figure.jpg",
+        "imgUrl": "/public/images/toys/t7.jpg",
         "price": 44.99,
         "brands": [
             "Dragon Ball"
@@ -121,14 +121,14 @@
         "companies": [
             "Bandai"
         ],
-        "inStock": false,
+        "inStock": true,
         "description": "Super Saiyan Vegeta figure with battle-damaged look.",
         "createdAt": 1693641600000
     },
     {
         "_id": "t8",
         "name": "One Piece Zoro Statue",
-        "imgUrl": "https://example.com/zoro-statue.jpg",
+        "imgUrl": "/public/images/toys/t8.jpg",
         "price": 69.99,
         "brands": [
             "One Piece"
@@ -146,7 +146,7 @@
     {
         "_id": "t9",
         "name": "Demon Slayer Tanjiro Model Kit",
-        "imgUrl": "https://example.com/tanjiro-model.jpg",
+        "imgUrl": "/public/images/toys/t9.jpg",
         "price": 34.99,
         "brands": [
             "Demon Slayer"
@@ -164,7 +164,7 @@
     {
         "_id": "t10",
         "name": "My Hero Academia Deku Plush Toy",
-        "imgUrl": "https://example.com/deku-plush.jpg",
+        "imgUrl": "/public/images/toys/t10.jpg",
         "price": 22.99,
         "brands": [
             "My Hero Academia"
@@ -182,7 +182,7 @@
     {
         "_id": "t11",
         "name": "Naruto Sasuke Statue",
-        "imgUrl": "https://example.com/sasuke-statue.jpg",
+        "imgUrl": "/public/images/toys/t11.jpg",
         "price": 74.99,
         "brands": [
             "Naruto"
@@ -200,7 +200,7 @@
     {
         "_id": "t12",
         "name": "Dragon Ball Piccolo Plush Toy",
-        "imgUrl": "https://example.com/piccolo-plush.jpg",
+        "imgUrl": "/public/images/toys/t12.jpg",
         "price": 26.99,
         "brands": [
             "Dragon Ball"
@@ -211,14 +211,14 @@
         "companies": [
             "Banpresto"
         ],
-        "inStock": false,
+        "inStock": true,
         "description": "Green and soft Piccolo plush toy collectible.",
         "createdAt": 1694073600000
     },
     {
         "_id": "t13",
         "name": "One Piece Chopper Nendoroid",
-        "imgUrl": "https://example.com/chopper-nendo.jpg",
+        "imgUrl": "/public/images/toys/t13.jpg",
         "price": 42.99,
         "brands": [
             "One Piece"
@@ -236,7 +236,7 @@
     {
         "_id": "t14",
         "name": "Demon Slayer Zenitsu Action Figure",
-        "imgUrl": "https://example.com/zenitsu-figure.jpg",
+        "imgUrl": "/public/images/toys/t14.jpg",
         "price": 38.99,
         "brands": [
             "Demon Slayer"
@@ -254,7 +254,7 @@
     {
         "_id": "t15",
         "name": "My Hero Academia Bakugo Model Kit",
-        "imgUrl": "https://example.com/bakugo-model.jpg",
+        "imgUrl": "/public/images/toys/t15.jpg",
         "price": 32.99,
         "brands": [
             "My Hero Academia"
@@ -272,7 +272,7 @@
     {
         "_id": "t16",
         "name": "Naruto Gaara Plush Toy",
-        "imgUrl": "https://example.com/gaara-plush.jpg",
+        "imgUrl": "/public/images/toys/t16.jpg",
         "price": 27.99,
         "brands": [
             "Naruto"
@@ -285,6 +285,6 @@
         ],
         "inStock": true,
         "description": "Soft Gaara plush with gourd detail.",
-        "createdAt": 1694419200000
+        "createdAt": 1693123200000
     }
 ]

@@ -37,9 +37,11 @@ app.get('/api/toy', (req, res) => {
         productTypes: req.query.productTypes || [],
         companies: req.query.companies || [],
         sortType: req.query.sortType || 'createdAt',
-        dir: req.query.dir || -1,
-        pageIdx: req.query.pageIdx || 0
+        dir: +req.query.dir || -1,
+        pageIdx: +req.query.pageIdx || undefined
     }
+
+    console.log('filterBy:', filterBy)
 
     toyService.query(filterBy)
         .then(data => res.send(data))
