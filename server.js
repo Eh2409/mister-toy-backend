@@ -1,6 +1,7 @@
 import express from 'express'
 import path from 'path'
 import cookieParser from 'cookie-parser'
+import cors from 'cors'
 
 import { setBoolean } from './services/util.service.js'
 import { toyService } from './services/toy.service.js'
@@ -8,11 +9,22 @@ import { loggerService } from './services/logger.service.js'
 
 const app = express()
 
-app.set('query parser', 'extended')
+const corsOptions = {
+    origin: [
+        'http://127.0.0.1:8080',
+        'http://localhost:8080',
+        'http://127.0.0.1:5173',
+        'http://localhost:5173',
+    ],
+    credentials: true
+}
+
 
 app.use(express.static('public'))
-app.use(express.json())
 app.use(cookieParser())
+app.use(express.json())
+app.use(cors(corsOptions))
+app.set('query parser', 'extended')
 
 
 app.get('/api/toy', (req, res) => {
@@ -28,8 +40,6 @@ app.get('/api/toy', (req, res) => {
         dir: req.query.dir || -1,
         pageIdx: req.query.pageIdx || 0
     }
-
-    console.log('filterBy:', filterBy)
 
     toyService.query(filterBy)
         .then(data => res.send(data))
