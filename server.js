@@ -38,7 +38,7 @@ app.get('/api/toy', (req, res) => {
         companies: req.query.companies || [],
         sortType: req.query.sortType || 'createdAt',
         dir: +req.query.dir || -1,
-        pageIdx: +req.query.pageIdx || undefined
+        pageIdx: req.query.pageIdx
     }
 
     toyService.query(filterBy)
