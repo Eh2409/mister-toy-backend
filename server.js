@@ -111,6 +111,16 @@ app.get('/api/toy/labels', (req, res) => {
         })
 })
 
+app.get('/api/toy/charts', (req, res) => {
+
+    toyService.getLabelsChartsData()
+        .then(chartsData => res.send(chartsData))
+        .catch(err => {
+            loggerService.error(err)
+            res.status(400).send(err)
+        })
+})
+
 app.get('/api/toy/:toyId', (req, res) => {
 
     const { toyId } = req.params

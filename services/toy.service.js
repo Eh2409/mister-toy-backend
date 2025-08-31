@@ -6,7 +6,8 @@ export const toyService = {
     remove,
     add,
     update,
-    getLabels
+    getLabels,
+    getLabelsChartsData
 }
 
 const toys = readJsonFile('data/toy.json')
@@ -148,6 +149,48 @@ function getLabels() {
     ]
 
     return Promise.resolve({ brands, productTypes, companies })
+}
+
+function getLabelsChartsData() {
+    return Promise.all(
+        [calculateLabelPercentages('brands'),
+        calculateLabelPercentages('productTypes'),
+        calculateLabelPercentages('companies')])
+        .then(([brands, productTypes, companies]) => { return { brands, productTypes, companies } })
+        .catch(err => { throw err })
+}
+
+
+function calculateLabelPercentages(LabelType) {
+    const toysCopy = structuredClone(toys)
+    const labelCounts = toysCopy.reduce((acc, toy) => {
+
+        if (!toy.inStock) return acc
+
+        toy[LabelType].forEach(label => {
+            if (!acc[label]) acc[label] = 1
+            else acc[label]++
+            if (!acc['totalLength']) acc['totalLength'] = 1
+            else acc['totalLength']++
+
+            return
+        })
+        return acc
+    }, {})
+
+    const labelPercentagesData = Object.entries(labelCounts)
+        .filter(([key]) => key !== 'totalLength')
+        .map(([key, val]) => {
+            return {
+                name: key,
+                percent: (val / (labelCounts['totalLength']) * 100).toFixed(1),
+                toysCount: val
+            }
+
+        })
+
+    return Promise.resolve(labelPercentagesData)
+
 }
 
 
