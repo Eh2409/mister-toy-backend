@@ -15,7 +15,6 @@ const toys = readJsonFile('data/toy.json')
 const PAGE_SIZE = 8
 
 function query(filterBy = {}) {
-    console.log('filterBy:', filterBy)
     return Promise.resolve(toys).then(toys => {
         var filteredToys = structuredClone(toys)
 

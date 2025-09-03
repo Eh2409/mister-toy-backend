@@ -2,7 +2,7 @@
   {
     "_id": "t1",
     "name": "Naruto Uzumaki Action Figure",
-    "imgUrl": "./images/toys/t1.jpg",
+    "imgUrl": "/images/toys/t1.jpg",
     "price": 39.99,
     "brands": [
       "Naruto"
@@ -20,7 +20,7 @@
   {
     "_id": "t2",
     "name": "Dragon Ball Goku Nendoroid",
-    "imgUrl": "./images/toys/t2.jpg",
+    "imgUrl": "/images/toys/t2.jpg",
     "price": 54.99,
     "brands": [
       "Dragon Ball"
@@ -38,7 +38,7 @@
   {
     "_id": "t3",
     "name": "One Piece Luffy Model Kit",
-    "imgUrl": "./images/toys/t3.jpg",
+    "imgUrl": "/images/toys/t3.jpg",
     "price": 29.99,
     "brands": [
       "One Piece"
@@ -56,7 +56,7 @@
   {
     "_id": "t4",
     "name": "Demon Slayer Nezuko Plush Toy",
-    "imgUrl": "./images/toys/t4.jpg",
+    "imgUrl": "/images/toys/t4.jpg",
     "price": 24.99,
     "brands": [
       "Demon Slayer"
@@ -74,7 +74,7 @@
   {
     "_id": "t5",
     "name": "My Hero Academia All Might Statue",
-    "imgUrl": "./images/toys/t5.jpg",
+    "imgUrl": "/images/toys/t5.jpg",
     "price": 79.99,
     "brands": [
       "My Hero Academia"
@@ -92,7 +92,7 @@
   {
     "_id": "t6",
     "name": "Naruto Kakashi Nendoroid",
-    "imgUrl": "./images/toys/t6.jpg",
+    "imgUrl": "/images/toys/t6.jpg",
     "price": 49.99,
     "brands": [
       "Naruto"
@@ -110,7 +110,7 @@
   {
     "_id": "t7",
     "name": "Dragon Ball Vegeta Action Figure",
-    "imgUrl": "./images/toys/t7.jpg",
+    "imgUrl": "/images/toys/t7.jpg",
     "price": 44.99,
     "brands": [
       "Dragon Ball"
@@ -128,7 +128,7 @@
   {
     "_id": "t8",
     "name": "One Piece Zoro Statue",
-    "imgUrl": "./images/toys/t8.jpg",
+    "imgUrl": "/images/toys/t8.jpg",
     "price": 69.99,
     "brands": [
       "One Piece"
@@ -146,7 +146,7 @@
   {
     "_id": "t9",
     "name": "Demon Slayer Tanjiro Model Kit",
-    "imgUrl": "./images/toys/t9.jpg",
+    "imgUrl": "/images/toys/t9.jpg",
     "price": 34.99,
     "brands": [
       "Demon Slayer"
@@ -164,7 +164,7 @@
   {
     "_id": "t10",
     "name": "My Hero Academia Deku Plush Toy",
-    "imgUrl": "./images/toys/t10.jpg",
+    "imgUrl": "/images/toys/t10.jpg",
     "price": 22.99,
     "brands": [
       "My Hero Academia"
@@ -182,7 +182,7 @@
   {
     "_id": "t11",
     "name": "Naruto Sasuke Statue",
-    "imgUrl": "./images/toys/t11.jpg",
+    "imgUrl": "/images/toys/t11.jpg",
     "price": 74.99,
     "brands": [
       "Naruto"
@@ -200,7 +200,7 @@
   {
     "_id": "t12",
     "name": "Dragon Ball Piccolo Plush Toy",
-    "imgUrl": "./images/toys/t12.jpg",
+    "imgUrl": "/images/toys/t12.jpg",
     "price": 26.99,
     "brands": [
       "Dragon Ball"
@@ -218,7 +218,7 @@
   {
     "_id": "t13",
     "name": "One Piece Chopper Nendoroid",
-    "imgUrl": "./images/toys/t13.jpg",
+    "imgUrl": "/images/toys/t13.jpg",
     "price": 42.99,
     "brands": [
       "One Piece"
@@ -236,7 +236,7 @@
   {
     "_id": "t14",
     "name": "Demon Slayer Zenitsu Action Figure",
-    "imgUrl": "./images/toys/t14.jpg",
+    "imgUrl": "/images/toys/t14.jpg",
     "price": 38.99,
     "brands": [
       "Demon Slayer"
@@ -254,7 +254,7 @@
   {
     "_id": "t15",
     "name": "My Hero Academia Bakugo Model Kit",
-    "imgUrl": "./images/toys/t15.jpg",
+    "imgUrl": "/images/toys/t15.jpg",
     "price": 32.99,
     "brands": [
       "My Hero Academia"
@@ -272,7 +272,7 @@
   {
     "_id": "t16",
     "name": "Naruto Gaara Plush Toy",
-    "imgUrl": "./images/toys/t16.jpg",
+    "imgUrl": "/images/toys/t16.jpg",
     "price": 27.99,
     "brands": [
       "Naruto"
