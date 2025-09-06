@@ -30,7 +30,7 @@ app.use(cors(corsOptions))
 app.set('query parser', 'extended')
 
 
-app.get('/api/toy', (req, res) => {
+app.get('/api/toy', async (req, res) => {
 
     const filterBy = {
         name: req.query.name || '',
@@ -44,27 +44,30 @@ app.get('/api/toy', (req, res) => {
         pageIdx: req.query.pageIdx
     }
 
-    toyService.query(filterBy)
-        .then(data => res.send(data))
-        .catch(err => {
-            loggerService.error(err)
-            res.status(400).send(err)
-        })
+    try {
+        const data = await toyService.query(filterBy)
+        res.send(data)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
 })
 
-app.delete('/api/toy/:toyId', (req, res) => {
+app.delete('/api/toy/:toyId', async (req, res) => {
 
     const { toyId } = req.params
 
-    toyService.remove(toyId)
-        .then(maxPage => res.send(maxPage))
-        .catch(err => {
-            loggerService.error(err)
-            res.status(400).send(err)
-        })
+    try {
+        const maxPage = await toyService.remove(toyId)
+        res.send(maxPage)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
+
 })
 
-app.post('/api/toy', (req, res) => {
+app.post('/api/toy', async (req, res) => {
 
     const toy = req.body
 
@@ -76,15 +79,16 @@ app.post('/api/toy', (req, res) => {
 
     const toyToSave = { name, imgUrl, price, brands, productTypes, companies, inStock, description }
 
-    toyService.add(toyToSave)
-        .then(savedToy => res.send(savedToy))
-        .catch(err => {
-            loggerService.error(err)
-            res.status(400).send(err)
-        })
+    try {
+        const savedToy = await toyService.add(toyToSave)
+        res.send(savedToy)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
 })
 
-app.put('/api/toy/:toyId', (req, res) => {
+app.put('/api/toy/:toyId', async (req, res) => {
 
     const toy = req.body
 
@@ -96,44 +100,51 @@ app.put('/api/toy/:toyId', (req, res) => {
 
     const toyToSave = { _id, name, imgUrl, price, brands, productTypes, companies, inStock, description }
 
-    toyService.update(toyToSave)
-        .then(savedToy => res.send(savedToy))
-        .catch(err => {
-            loggerService.error(err)
-            res.status(400).send(err)
-        })
+    try {
+        const savedToy = await toyService.update(toyToSave)
+        res.send(savedToy)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
 })
 
-app.get('/api/toy/labels', (req, res) => {
+app.get('/api/toy/labels', async (req, res) => {
 
-    toyService.getLabels()
-        .then(labels => res.send(labels))
-        .catch(err => {
-            loggerService.error(err)
-            res.status(400).send(err)
-        })
+    try {
+        const labels = await toyService.getLabels()
+        res.send(labels)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
+
 })
 
-app.get('/api/toy/charts', (req, res) => {
+app.get('/api/toy/charts', async (req, res) => {
 
-    toyService.getLabelsChartsData()
-        .then(chartsData => res.send(chartsData))
-        .catch(err => {
-            loggerService.error(err)
-            res.status(400).send(err)
-        })
+    try {
+        const chartsData = await toyService.getLabelsChartsData()
+        res.send(chartsData)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
+
 })
 
-app.get('/api/toy/:toyId', (req, res) => {
+app.get('/api/toy/:toyId', async (req, res) => {
 
     const { toyId } = req.params
 
-    toyService.getById(toyId)
-        .then(toy => res.send(toy))
-        .catch(err => {
-            loggerService.error(err)
-            res.status(400).send(err)
-        })
+    try {
+        const toy = await toyService.getById(toyId)
+        res.send(toy)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
+
 })
 
 /// user
