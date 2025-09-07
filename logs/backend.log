@@ -16,3 +16,8 @@
 7.9.2025, 2:33:45 - ERROR - Error: username or password invalid
 7.9.2025, 2:34:07 - ERROR - Error: username or password invalid
 7.9.2025, 2:34:09 - ERROR - Error: user name is taken
+7.9.2025, 3:23:02 - ERROR - Error: cannot find user BCuTVz
+7.9.2025, 3:23:27 - ERROR - Error: cannot find user BCuTVz
+7.9.2025, 3:30:35 - ERROR - Error: cannot find user BCuTVz
+7.9.2025, 3:32:54 - ERROR - TypeError: Cannot read properties of undefined (reading 'push')
+7.9.2025, 3:38:47 - ERROR - Error: username or password invalid

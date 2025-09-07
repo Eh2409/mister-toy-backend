@@ -7,7 +7,8 @@ export const toyService = {
     add,
     update,
     getLabels,
-    getLabelsChartsData
+    getLabelsChartsData,
+    saveMsg
 }
 
 const toys = readJsonFile('data/toy.json')
@@ -87,7 +88,7 @@ async function remove(toyId) {
     const idx = toys.findIndex(t => t._id === toyId)
     if (idx === -1) throw new Error(`cannot find toy ${toyId}`)
     toys.splice(idx, 1)
-    return _saveTodos().then(() => getMaxPage())
+    return _saveToys().then(() => getMaxPage())
 }
 
 async function getMaxPage() {
@@ -104,10 +105,11 @@ async function add(toyToSave) {
 
     toyToSave.createdAt = Date.now()
     toyToSave._id = makeId()
+    toyToSave.msgs = []
 
     toys.unshift(toyToSave)
 
-    return _saveTodos().then(() => toyToSave)
+    return _saveToys().then(() => toyToSave)
 }
 
 async function update(toyToSave) {
@@ -119,7 +121,7 @@ async function update(toyToSave) {
 
     const savedToy = toys[idx]
 
-    return _saveTodos().then(() => savedToy)
+    return _saveToys().then(() => savedToy)
 }
 
 
@@ -168,7 +170,6 @@ async function getLabelsChartsData() {
 }
 
 
-
 async function calculateLabelPercentages(LabelType) {
     const toysCopy = structuredClone(toys)
     const labelCounts = toysCopy.reduce((acc, toy) => {
@@ -200,7 +201,28 @@ async function calculateLabelPercentages(LabelType) {
     return labelPercentagesData
 }
 
+async function saveMsg(msgToSave, toyId) {
+    try {
+        const toy = await getById(toyId)
 
-function _saveTodos() {
+        if (!toy) {
+            throw new Error(`Toy with id ${toyId} not found`)
+        }
+
+        msgToSave.id = makeId()
+        msgToSave.at = Date.now()
+        toy.msgs.push(msgToSave)
+
+        await update(toy)
+
+        return msgToSave
+
+    } catch (err) {
+        throw err
+    }
+}
+
+
+function _saveToys() {
     return writeJsonFile('data/toy.json', toys)
 }

@@ -15,7 +15,8 @@
         ],
         "inStock": true,
         "description": "Highly detailed Naruto Uzumaki action figure with multiple accessories.",
-        "createdAt": 1694419200000
+        "createdAt": 1694419200000,
+        "msgs": []
     },
     {
         "_id": "t2",
@@ -33,7 +34,8 @@
         ],
         "inStock": true,
         "description": "Cute chibi-style Goku Nendoroid with interchangeable faces.",
-        "createdAt": 1693209600000
+        "createdAt": 1693209600000,
+        "msgs": []
     },
     {
         "_id": "t3",
@@ -51,7 +53,8 @@
         ],
         "inStock": true,
         "description": "Assemble Monkey D. Luffy with this fun One Piece model kit.",
-        "createdAt": 1693296000000
+        "createdAt": 1693296000000,
+        "msgs": []
     },
     {
         "_id": "t4",
@@ -69,7 +72,8 @@
         ],
         "inStock": true,
         "description": "Soft and cuddly Nezuko plush toy, perfect for fans.",
-        "createdAt": 1693382400000
+        "createdAt": 1693382400000,
+        "msgs": []
     },
     {
         "_id": "t5",
@@ -87,7 +91,8 @@
         ],
         "inStock": true,
         "description": "Premium All Might statue in heroic pose.",
-        "createdAt": 1693468800000
+        "createdAt": 1693468800000,
+        "msgs": []
     },
     {
         "_id": "t6",
@@ -105,7 +110,8 @@
         ],
         "inStock": false,
         "description": "Adorable Kakashi Hatake Nendoroid with book accessory.",
-        "createdAt": 1693555200000
+        "createdAt": 1693555200000,
+        "msgs": []
     },
     {
         "_id": "t7",
@@ -123,7 +129,8 @@
         ],
         "inStock": true,
         "description": "Super Saiyan Vegeta figure with battle-damaged look.",
-        "createdAt": 1693641600000
+        "createdAt": 1693641600000,
+        "msgs": []
     },
     {
         "_id": "t8",
@@ -141,7 +148,8 @@
         ],
         "inStock": true,
         "description": "Dynamic Roronoa Zoro statue with swords drawn.",
-        "createdAt": 1693728000000
+        "createdAt": 1693728000000,
+        "msgs": []
     },
     {
         "_id": "t9",
@@ -159,7 +167,8 @@
         ],
         "inStock": true,
         "description": "Build and display your own Tanjiro Kamado figure.",
-        "createdAt": 1693814400000
+        "createdAt": 1693814400000,
+        "msgs": []
     },
     {
         "_id": "t10",
@@ -177,7 +186,8 @@
         ],
         "inStock": true,
         "description": "Soft Izuku Midoriya plush toy for MHA fans.",
-        "createdAt": 1693900800000
+        "createdAt": 1693900800000,
+        "msgs": []
     },
     {
         "_id": "t11",
@@ -195,7 +205,8 @@
         ],
         "inStock": true,
         "description": "Epic Sasuke Uchiha statue with Chidori effect.",
-        "createdAt": 1693987200000
+        "createdAt": 1693987200000,
+        "msgs": []
     },
     {
         "_id": "t12",
@@ -213,7 +224,8 @@
         ],
         "inStock": true,
         "description": "Green and soft Piccolo plush toy collectible.",
-        "createdAt": 1694073600000
+        "createdAt": 1694073600000,
+        "msgs": []
     },
     {
         "_id": "t13",
@@ -231,7 +243,8 @@
         ],
         "inStock": true,
         "description": "Cute Tony Tony Chopper Nendoroid with hat accessory.",
-        "createdAt": 1694160000000
+        "createdAt": 1694160000000,
+        "msgs": []
     },
     {
         "_id": "t14",
@@ -249,7 +262,8 @@
         ],
         "inStock": true,
         "description": "Zenitsu Agatsuma figure in Thunder Breathing pose.",
-        "createdAt": 1694246400000
+        "createdAt": 1694246400000,
+        "msgs": []
     },
     {
         "_id": "t15",
@@ -267,7 +281,8 @@
         ],
         "inStock": true,
         "description": "Assemble explosive Katsuki Bakugo with this model kit.",
-        "createdAt": 1694332800000
+        "createdAt": 1694332800000,
+        "msgs": []
     },
     {
         "_id": "t16",
@@ -285,6 +300,7 @@
         ],
         "inStock": true,
         "description": "Soft Gaara plush with gourd detail.",
-        "createdAt": 1693123200000
+        "createdAt": 1693123200000,
+        "msgs": []
     }
 ]

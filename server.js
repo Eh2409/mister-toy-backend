@@ -133,6 +133,37 @@ app.get('/api/toy/charts', async (req, res) => {
 
 })
 
+app.post('/api/toy/:toyId/msg', async (req, res) => {
+
+    const loginToken = req?.cookies?.loginToken
+    const loggedinUser = authService.validateToken(loginToken)
+
+    if (!loggedinUser) {
+        return res.status(401).send('Not authorized')
+    }
+
+    const { toyId } = req.params
+    const { txt } = req.body
+
+    if (!txt || !toyId) {
+        return res.status(400).send('Required fields are missing')
+    }
+
+    const msgToSave = {
+        txt,
+        by: { _id: loggedinUser._id, username: loggedinUser.username }
+    }
+
+    try {
+        const savedMsg = await toyService.saveMsg(msgToSave, toyId)
+        res.send(savedMsg)
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
+
+})
+
 app.get('/api/toy/:toyId', async (req, res) => {
 
     const { toyId } = req.params
