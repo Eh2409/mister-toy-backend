@@ -1,4 +1,4 @@
-import { makeId, readJsonFile, writeJsonFile } from "./util.service.js"
+import { makeId, readJsonFile, writeJsonFile } from "../../services/util.service.js"
 
 export const toyService = {
     query,
