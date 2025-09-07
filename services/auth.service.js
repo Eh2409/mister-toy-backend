@@ -42,9 +42,12 @@ function getLoginToken(user) {
 }
 
 function validateToken(loginToken) {
-    if (!loginToken) return null
-
-    const json = JSON.parse(loginToken)
-    const loggedinUser = cryptr.decrypt(json)
-    return loggedinUser
+    try {
+        const json = cryptr.decrypt(loginToken)
+        const loggedinUser = JSON.parse(json)
+        return loggedinUser
+    } catch (err) {
+        console.log('Invalid login token')
+    }
+    return null
 }
