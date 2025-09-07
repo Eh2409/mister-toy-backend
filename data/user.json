@@ -2,7 +2,6 @@
   {
     "_id": "zJ2CWB3Z",
     "username": "e33",
-    "password": "1010",
     "fullname": "Eliad Haim",
     "isAdmin": true,
     "createdAt": 1757196417434
@@ -86,5 +85,21 @@
     "isAdmin": false,
     "createdAt": 1757205552939,
     "_id": "mg3N9F"
+  },
+  {
+    "username": "435435",
+    "password": "345435",
+    "fullname": "534543534",
+    "isAdmin": false,
+    "createdAt": 1757215021475,
+    "_id": "knu3aQ"
+  },
+  {
+    "username": "pep lala",
+    "password": "1010",
+    "fullname": "4354355",
+    "isAdmin": false,
+    "createdAt": 1757215033281,
+    "_id": "E80FLr"
   }
 ]
