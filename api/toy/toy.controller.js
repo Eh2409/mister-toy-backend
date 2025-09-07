@@ -14,7 +14,7 @@ export async function loadToys(req, res) {
         companies: req.query.companies || [],
         sortType: req.query.sortType || 'createdAt',
         dir: +req.query.dir || -1,
-        pageIdx: req.query.pageIdx || 0
+        pageIdx: req.query.pageIdx
     }
 
     try {
