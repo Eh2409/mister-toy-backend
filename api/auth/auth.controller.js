@@ -1,5 +1,4 @@
 import { loggerService } from "../../services/logger.service.js"
-import { userService } from "../user/user.service.js"
 import { authService } from "./auth.service.js"
 
 export async function login(req, res) {
@@ -36,7 +35,7 @@ export async function signup(req, res) {
     }
 
     try {
-        const account = await userService.add({ username, password, fullname })
+        const account = await authService.signup({ username, password, fullname })
 
         const user = await authService.login({ username, password })
 

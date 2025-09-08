@@ -70,3 +70,4 @@
 8.9.2025, 9:42:43 - ERROR - ReferenceError: dbService is not defined
 8.9.2025, 9:44:30 - ERROR - ReferenceError: ObjectId is not defined
 8.9.2025, 9:59:25 - ERROR - MongoServerError: Modifiers operate on fields but we found type string instead. For example: {$mod: {<field>: ...}} not {$set: "kaka pepe"}
+8.9.2025, 20:54:16 - ERROR - Error: user name is taken

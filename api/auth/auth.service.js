@@ -1,12 +1,26 @@
-import Cryptr from 'cryptr'
 import { userService } from '../user/user.service.js';
+import Cryptr from 'cryptr'
+import bcrypt from 'bcrypt'
 
 const cryptr = new Cryptr(process.env.SERCRET1 || 'secret-user-1000')
 
 export const authService = {
+    signup,
     login,
     getLoginToken,
     validateToken
+}
+
+async function signup(credentials) {
+    const { username, password, fullname } = credentials
+
+    const saltRounds = 10
+
+    const hash = await bcrypt.hash(password, saltRounds)
+
+    const userToSave = { username, password: hash, fullname }
+
+    return await userService.add(userToSave)
 }
 
 
@@ -18,8 +32,13 @@ async function login({ username, password }) {
 
     const user = await userService.getByUsername(username)
 
-    if (!user || user?.password !== password) {
+    if (!user) {
         throw new Error("username or password invalid");
+    }
+
+    const match = await bcrypt.compare(password, user.password)
+    if (!match) {
+        throw new Error('username or password invalid')
     }
 
     delete user.password
