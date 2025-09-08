@@ -1,5 +1,6 @@
 import { loggerService } from "../../services/logger.service.js"
 import { setBoolean } from "../../services/util.service.js"
+import { authService } from "../auth/auth.service.js"
 import { toyService } from "./toy.service.js"
 
 
@@ -65,16 +66,14 @@ export async function updateToy(req, res) {
 
     const toy = req.body
 
-    const { _id, name, imgUrl, price, brands, productTypes, companies, inStock, description } = toy
+    const { _id, name, imgUrl, price, inStock, description } = toy
 
     if (!_id || !name || !price || !inStock || !description) {
         return res.status(400).send('Required fields are missing')
     }
 
-    const toyToSave = { _id, name, imgUrl, price, brands, productTypes, companies, inStock, description }
-
     try {
-        const savedToy = await toyService.update(toyToSave)
+        const savedToy = await toyService.update(toy)
         res.send(savedToy)
     } catch (err) {
         loggerService.error(err)
@@ -107,7 +106,6 @@ export async function getLabelsChartsData(req, res) {
 }
 
 export async function saveMsg(req, res) {
-
     const loginToken = req?.cookies?.loginToken
     const loggedinUser = authService.validateToken(loginToken)
 

@@ -21,3 +21,49 @@
 7.9.2025, 3:30:35 - ERROR - Error: cannot find user BCuTVz
 7.9.2025, 3:32:54 - ERROR - TypeError: Cannot read properties of undefined (reading 'push')
 7.9.2025, 3:38:47 - ERROR - Error: username or password invalid
+8.9.2025, 6:08:16 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:28 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:28 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:31 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:31 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:31 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:35 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:35 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:40 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:40 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:08:40 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:09:43 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:09:43 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:09:43 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:10:24 - ERROR - TypeError: collection.toArray is not a function
+8.9.2025, 6:10:24 - ERROR - TypeError: collection.toArray is not a function
+8.9.2025, 6:10:24 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:11:42 - ERROR - TypeError: collection.toArray is not a function
+8.9.2025, 6:11:42 - ERROR - TypeError: collection.toArray is not a function
+8.9.2025, 6:11:42 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:12:10 - ERROR - TypeError: collection.toArray is not a function
+8.9.2025, 6:12:10 - ERROR - TypeError: collection.toArray is not a function
+8.9.2025, 6:12:10 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:14:20 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:14:22 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:14:22 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:14:22 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:14:25 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:14:25 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:14:25 - ERROR - TypeError: Cannot read properties of undefined (reading 'collection')
+8.9.2025, 6:18:19 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:18:20 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:18:31 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:18:31 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:18:40 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:18:40 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:18:49 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:18:49 - ERROR - MongoInvalidArgumentError: Operation "skip" requires an integer
+8.9.2025, 6:25:32 - ERROR - Error: cannot find toy 68be437947a6b14ae658bd5f
+8.9.2025, 6:45:27 - ERROR - ReferenceError: screws is not defined
+8.9.2025, 6:45:29 - ERROR - ReferenceError: screws is not defined
+8.9.2025, 6:48:44 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+8.9.2025, 6:48:44 - ERROR - MongoInvalidArgumentError: Operation "limit" requires an integer
+8.9.2025, 8:15:24 - ERROR - Error: username or password invalid
+8.9.2025, 8:45:25 - ERROR - BSONError: hex string must be 24 characters
+8.9.2025, 8:45:43 - ERROR - BSONError: hex string must be 24 characters

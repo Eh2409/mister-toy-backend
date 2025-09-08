@@ -10,7 +10,7 @@ router.post('/', addToy)
 router.put('/:toyId', updateToy)
 router.get('/labels', getLabels)
 router.get('/charts', getLabelsChartsData)
-router.post('/toyId/msg', saveMsg)
+router.post('/:toyId/msg', saveMsg)
 router.get('/:toyId', getToyById)
 
 

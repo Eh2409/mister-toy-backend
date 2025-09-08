@@ -1,4 +1,6 @@
-import { makeId, readJsonFile, writeJsonFile } from "../../services/util.service.js"
+import { ObjectId } from "mongodb"
+import { dbService } from "../../services/db.service.js"
+import { makeId } from "../../services/util.service.js"
 
 export const toyService = {
     query,
@@ -11,89 +13,54 @@ export const toyService = {
     saveMsg
 }
 
-const toys = readJsonFile('data/toy.json')
-
 const PAGE_SIZE = 8
 
 async function query(filterBy = {}) {
+    const { criteria, sort, skip } = _buildCriteria(filterBy)
 
-    var filteredToys = structuredClone(toys)
+    const limit = filterBy.pageIdx !== undefined ? PAGE_SIZE : 0
 
-    if (filterBy.name) {
-        const regExp = new RegExp(filterBy.name, 'i')
-        filteredToys = filteredToys.filter(toy => regExp.test(toy.name))
-    }
+    const collection = await dbService.getCollection('toy')
+    const toys = await collection
+        .find(criteria)
+        .sort(sort)
+        .skip(skip)
+        .limit(limit)
+        .toArray()
 
-    if (filterBy.price) {
-        filteredToys = filteredToys.filter(toy => toy.price >= filterBy.price)
-    }
+    const totalToys = await collection.countDocuments(criteria)
+    const maxPageCount = Math.ceil(totalToys / PAGE_SIZE)
 
-
-    if (filterBy.inStock !== undefined) {
-        filteredToys = filteredToys.filter(toy => toy.inStock === filterBy.inStock)
-    }
-
-
-    if (filterBy.brands?.length > 0) {
-        filteredToys = filteredToys.filter(toy => {
-            return filterBy.brands.some(brand => toy.brands.includes(brand))
-        })
-    }
-
-    if (filterBy.productTypes?.length > 0) {
-        filteredToys = filteredToys.filter(toy => {
-            return filterBy.productTypes.some(productType => toy.productTypes.includes(productType))
-        })
-    }
-
-    if (filterBy.companies?.length > 0) {
-        filteredToys = filteredToys.filter(toy => {
-            return filterBy.companies.some(company => toy.companies.includes(company))
-        })
-    }
-
-
-
-    if (filterBy.sortType && filterBy.dir) {
-        if (filterBy.sortType === 'price') {
-            filteredToys = filteredToys.sort((t1, t2) => (t1.price - t2.price) * filterBy.dir)
-        } else if (filterBy.sortType === 'createdAt') {
-            filteredToys = filteredToys.sort((t1, t2) => (t1.createdAt - t2.createdAt) * filterBy.dir)
-        } else if (filterBy.sortType === 'name') {
-            filteredToys = filteredToys.sort((t1, t2) => (t1.name.localeCompare(t2.name)) * filterBy.dir)
-        }
-    }
-
-    const maxPageCount = Math.ceil(filteredToys.length / PAGE_SIZE)
-
-
-
-    if (filterBy.pageIdx !== undefined) {
-        const startIdx = filterBy.pageIdx * PAGE_SIZE
-        filteredToys = filteredToys.slice(startIdx, startIdx + PAGE_SIZE)
-    }
-
-    return { toys: filteredToys, maxPageCount }
-
+    return { toys, maxPageCount }
 }
 
-
 async function getById(toyId) {
-    const toy = toys.find(t => t._id === toyId)
-    if (!toy) throw new Error(`cannot find toy ${toyId}`)
-    return toy
+    try {
+        const criteria = { _id: ObjectId.createFromHexString(toyId) }
+        const collection = await dbService.getCollection('toy')
+        const toy = await collection.findOne(criteria)
+        return toy
+    } catch (err) {
+        throw err
+    }
 }
 
 async function remove(toyId) {
-    const idx = toys.findIndex(t => t._id === toyId)
-    if (idx === -1) throw new Error(`cannot find toy ${toyId}`)
-    toys.splice(idx, 1)
-    return _saveToys().then(() => getMaxPage())
+    try {
+        const criteria = { _id: ObjectId.createFromHexString(toyId) }
+        const collection = await dbService.getCollection('toy')
+        await collection.deleteOne(criteria)
+        return getMaxPage()
+    } catch (err) {
+        throw err
+    }
 }
 
 async function getMaxPage() {
     try {
-        const maxPageCount = Math.ceil(toys.length / PAGE_SIZE)
+        const collection = await dbService.getCollection('toy')
+        const totalToys = await collection.countDocuments()
+        const maxPageCount = Math.ceil(totalToys / PAGE_SIZE)
         return maxPageCount
     } catch (err) {
         throw err
@@ -102,26 +69,29 @@ async function getMaxPage() {
 
 
 async function add(toyToSave) {
-
-    toyToSave.createdAt = Date.now()
-    toyToSave._id = makeId()
-    toyToSave.msgs = []
-
-    toys.unshift(toyToSave)
-
-    return _saveToys().then(() => toyToSave)
+    try {
+        toyToSave.msgs = []
+        const collection = await dbService.getCollection('toy')
+        await collection.insertOne(toyToSave)
+        return toyToSave
+    } catch (err) {
+        throw err
+    }
 }
 
-async function update(toyToSave) {
+async function update(toy) {
+    const { _id, name, imgUrl, price, brands, productTypes, companies, inStock, description } = toy
+    const toyToSave = { name, imgUrl, price, brands, productTypes, companies, inStock, description }
+    const toyId = _id
 
-    const idx = toys.findIndex(t => t._id === toyToSave._id)
-    if (idx === -1) throw new Error(`cannot find toy ${toyId}`)
-
-    toys[idx] = { ...toys[idx], ...toyToSave }
-
-    const savedToy = toys[idx]
-
-    return _saveToys().then(() => savedToy)
+    try {
+        const criteria = { _id: ObjectId.createFromHexString(toyId) }
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne(criteria, { $set: toyToSave })
+        return toy
+    } catch (err) {
+        throw err
+    }
 }
 
 
@@ -171,10 +141,11 @@ async function getLabelsChartsData() {
 
 
 async function calculateLabelPercentages(LabelType) {
-    const toysCopy = structuredClone(toys)
-    const labelCounts = toysCopy.reduce((acc, toy) => {
+    const criteria = { inStock: true }
+    const collection = await dbService.getCollection('toy')
+    const toys = await collection.find(criteria).toArray()
 
-        if (!toy.inStock) return acc
+    const labelCounts = toys.reduce((acc, toy) => {
 
         toy[LabelType].forEach(label => {
             if (!acc[label]) acc[label] = 1
@@ -203,26 +174,64 @@ async function calculateLabelPercentages(LabelType) {
 
 async function saveMsg(msgToSave, toyId) {
     try {
-        const toy = await getById(toyId)
-
-        if (!toy) {
-            throw new Error(`Toy with id ${toyId} not found`)
-        }
+        const criteria = { _id: ObjectId.createFromHexString(toyId) }
 
         msgToSave.id = makeId()
         msgToSave.at = Date.now()
-        toy.msgs.push(msgToSave)
 
-        await update(toy)
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne(criteria, { $push: { msgs: msgToSave } })
 
         return msgToSave
-
     } catch (err) {
         throw err
     }
 }
 
 
-function _saveToys() {
-    return writeJsonFile('data/toy.json', toys)
+
+/// private funcs
+
+function _buildCriteria(filterBy = {}) {
+
+    const criteria = {}
+
+    if (filterBy.name) {
+        criteria['name'] = { $regex: filterBy.name, $options: 'i' }
+    }
+
+    if (filterBy.price) {
+        criteria.price = { $gte: filterBy.price }
+    }
+
+    if (filterBy.inStock !== undefined) {
+        criteria['inStock'] = filterBy.inStock
+    }
+
+    if (filterBy.brands?.length > 0) {
+        criteria.brands = { $in: filterBy.brands }
+    }
+
+    if (filterBy.productTypes?.length > 0) {
+        criteria.productTypes = { $in: filterBy.productTypes }
+    }
+
+    if (filterBy.companies?.length > 0) {
+        criteria.companies = { $in: filterBy.companies }
+    }
+
+
+    const sort = {}
+
+    if (filterBy.sortType && filterBy.dir) {
+        const sortBy = filterBy.sortType === 'createdAt' ? '_id' : filterBy.sortType
+        sort[sortBy] = +filterBy.dir
+    } else {
+        sort['_id'] = -1
+    }
+
+
+    var skip = filterBy.pageIdx !== undefined ? filterBy.pageIdx * PAGE_SIZE : 0
+
+    return { criteria, sort, skip }
 }
