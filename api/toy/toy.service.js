@@ -10,7 +10,8 @@ export const toyService = {
     update,
     getLabels,
     getLabelsChartsData,
-    saveMsg
+    saveMsg,
+    removeMsg
 }
 
 const PAGE_SIZE = 8
@@ -183,6 +184,17 @@ async function saveMsg(msgToSave, toyId) {
         await collection.updateOne(criteria, { $push: { msgs: msgToSave } })
 
         return msgToSave
+    } catch (err) {
+        throw err
+    }
+}
+
+async function removeMsg(toyId, msgId) {
+    try {
+        const criteria = { _id: ObjectId.createFromHexString(toyId) }
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne(criteria, { $pull: { msgs: { id: msgId } } })
+        return
     } catch (err) {
         throw err
     }

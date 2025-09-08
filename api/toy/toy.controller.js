@@ -130,6 +130,24 @@ export async function saveMsg(req, res) {
 
 }
 
+export async function removeMsg(req, res) {
+
+    const { toyId, msgId } = req.params
+
+    if (!msgId || !toyId) {
+        return res.status(400).send('Required fields are missing')
+    }
+
+    try {
+        await toyService.removeMsg(toyId, msgId)
+        res.send('msg removed!')
+    } catch (err) {
+        loggerService.error(err)
+        res.status(400).send(err)
+    }
+
+}
+
 export async function getToyById(req, res) {
 
     const { toyId } = req.params

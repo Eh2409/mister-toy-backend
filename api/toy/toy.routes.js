@@ -1,5 +1,5 @@
 import express from 'express'
-import { addToy, getLabels, getLabelsChartsData, getToyById, loadToys, removeToy, saveMsg, updateToy } from './toy.controller.js'
+import { addToy, getLabels, getLabelsChartsData, getToyById, loadToys, removeMsg, removeToy, saveMsg, updateToy } from './toy.controller.js'
 import { requireAdmin, requireAuth } from '../../middlewares/requireAuth.middleware.js'
 
 
@@ -12,6 +12,7 @@ router.put('/:toyId', requireAuth, requireAdmin, updateToy)
 router.get('/labels', getLabels)
 router.get('/charts', getLabelsChartsData)
 router.post('/:toyId/msg', requireAuth, saveMsg)
+router.delete('/:toyId/msg/:msgId', requireAuth, requireAdmin, removeMsg)
 router.get('/:toyId', getToyById)
 
 
