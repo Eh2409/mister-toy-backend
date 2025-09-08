@@ -67,3 +67,6 @@
 8.9.2025, 8:15:24 - ERROR - Error: username or password invalid
 8.9.2025, 8:45:25 - ERROR - BSONError: hex string must be 24 characters
 8.9.2025, 8:45:43 - ERROR - BSONError: hex string must be 24 characters
+8.9.2025, 9:42:43 - ERROR - ReferenceError: dbService is not defined
+8.9.2025, 9:44:30 - ERROR - ReferenceError: ObjectId is not defined
+8.9.2025, 9:59:25 - ERROR - MongoServerError: Modifiers operate on fields but we found type string instead. For example: {$mod: {<field>: ...}} not {$set: "kaka pepe"}
