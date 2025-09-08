@@ -1,4 +1,5 @@
-import { makeId, readJsonFile, writeJsonFile } from "../../services/util.service.js"
+import { dbService } from "../../services/db.service.js"
+import { ObjectId } from "mongodb"
 
 export const userService = {
     query,
@@ -9,30 +10,55 @@ export const userService = {
     update,
 }
 
-const users = readJsonFile('data/user.json')
-
 
 async function query(filterBy = {}) {
-    const filterdUsers = structuredClone(users)
-    return filterdUsers
+    try {
+        const collection = await dbService.getCollection('user')
+        var users = await collection.find().toArray()
+        users = users.map(user => {
+            delete user.password
+            user.createdAt = user._id.getTimestamp().getTime()
+            return user
+        })
+
+        return users
+    } catch (err) {
+        throw err
+    }
 }
 
 async function getById(userId) {
-    const user = users.find(u => u._id === userId)
-    if (!user) throw new Error(`cannot find user ${userId}`)
-    return user
+    try {
+        const criteria = { _id: ObjectId.createFromHexString(userId) }
+        const collection = await dbService.getCollection('user')
+        const user = await collection.findOne(criteria)
+        delete user.password
+        return user
+    } catch (err) {
+        throw err
+    }
 }
 
 async function getByUsername(username) {
-    const user = users.find(user => user.username === username)
-    return user
+    try {
+        const criteria = { username: username }
+        const collection = await dbService.getCollection('user')
+        const user = await collection.findOne(criteria)
+        return user
+    } catch (err) {
+        throw err
+    }
 }
 
 async function remove(userId) {
-    const idx = users.findIndex(u => u._id === userId)
-    if (idx === -1) return Promise.reject(`cannot find user ${userId}`)
-    users.splice(idx, 1)
-    return _saveUsers()
+    try {
+        const criteria = { _id: ObjectId.createFromHexString(userId) }
+        const collection = await dbService.getCollection('user')
+        await collection.deleteOne(criteria)
+        return
+    } catch (err) {
+        throw err
+    }
 }
 
 async function add(credentials) {
@@ -54,16 +80,14 @@ async function add(credentials) {
             password,
             fullname,
             isAdmin: false,
-            createdAt: Date.now(),
-            _id: makeId(),
         }
 
-        users.push(userToAdd)
-        _saveUsers()
+        const collection = await dbService.getCollection('user')
+        await collection.insertOne(userToAdd)
 
-        const savedUser = { ...userToAdd }
-        delete savedUser.password
-        return savedUser
+        delete userToAdd.password
+
+        return userToAdd
 
     } catch (err) {
         throw err;
@@ -71,9 +95,9 @@ async function add(credentials) {
 
 }
 
-async function update(userToUpdate) {
+async function update(UpdatedCredentials) {
     try {
-        const { _id, username } = userToUpdate
+        const { _id, username } = UpdatedCredentials
 
         if (!_id) {
             throw new Error("missing required credentials");
@@ -85,6 +109,7 @@ async function update(userToUpdate) {
             throw new Error("user dont found");
         }
 
+        const userToUpdate = {}
 
         if (username) {
             const isUserNameTaken = await getByUsername(username)
@@ -94,28 +119,16 @@ async function update(userToUpdate) {
             }
 
             user.username = username
+            userToUpdate.username = username
         }
 
-        const idx = users.findIndex(u => u._id === _id)
-
-        if (idx === -1) {
-            throw new Error("user dont found");
-        }
-
-        users[idx] = { ...users[idx], ...user }
-        _saveUsers()
-
-        const savedUser = { ...users[idx] }
-        delete savedUser.password
-        return savedUser
+        const criteria = { _id: ObjectId.createFromHexString(_id) }
+        const collection = await dbService.getCollection('user')
+        await collection.updateOne(criteria, { $set: userToUpdate })
+        return user
 
     } catch (err) {
         throw err
     }
 
-}
-
-
-function _saveUsers() {
-    return writeJsonFile('data/user.json', users)
 }
