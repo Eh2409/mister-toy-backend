@@ -106,12 +106,7 @@ export async function getLabelsChartsData(req, res) {
 }
 
 export async function saveMsg(req, res) {
-    const loginToken = req?.cookies?.loginToken
-    const loggedinUser = authService.validateToken(loginToken)
-
-    if (!loggedinUser) {
-        return res.status(401).send('Not authorized')
-    }
+    const { loggedinUser } = req
 
     const { toyId } = req.params
     const { txt } = req.body

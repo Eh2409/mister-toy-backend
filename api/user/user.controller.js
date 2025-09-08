@@ -31,12 +31,17 @@ export async function removeUser(req, res) {
 
 export async function updateUser(req, res) {
 
+    const { loggedinUser } = req
     const credentials = req.body
 
     const { _id, username } = credentials
 
     if (!_id) {
-        throw new Error("missing required credentials")
+        return res.status(400).send('Required fields are missing')
+    }
+
+    if (loggedinUser?._id !== _id) {
+        return res.status(403).send('You are not authorized to update this user')
     }
 
     const userToSave = { _id, username }
