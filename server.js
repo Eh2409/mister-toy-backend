@@ -7,6 +7,7 @@ import cors from 'cors'
 import { toyRoutes } from './api/toy/toy.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { authRoutes } from './api/auth/auth.routes.js'
+import { reviewRoutes } from './api/review/review.routes.js'
 
 const app = express()
 
@@ -31,6 +32,7 @@ app.set('query parser', 'extended')
 app.use('/api/toy', toyRoutes)
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
+app.use('/api/review', reviewRoutes)
 
 
 

@@ -74,3 +74,9 @@
 8.9.2025, 23:40:24 - ERROR - BSONError: hex string must be 24 characters
 8.9.2025, 23:40:29 - ERROR - BSONError: hex string must be 24 characters
 8.9.2025, 23:40:31 - ERROR - BSONError: hex string must be 24 characters
+12.9.2025, 16:14:47 - ERROR - ReferenceError: dbService is not defined
+12.9.2025, 16:15:41 - ERROR - ReferenceError: ratingStats is not defined
+12.9.2025, 16:38:51 - ERROR - TypeError: Class constructor ObjectId cannot be invoked without 'new'
+12.9.2025, 16:48:59 - ERROR - MongoServerError: the limit must be positive
+12.9.2025, 17:49:10 - ERROR - BSONError: hex string must be 24 characters
+13.9.2025, 23:33:35 - ERROR - ReferenceError: storageService is not defined
