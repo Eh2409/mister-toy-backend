@@ -81,8 +81,8 @@ async function add(toyToSave) {
 }
 
 async function update(toy) {
-    const { _id, name, imgUrl, price, brands, productTypes, companies, inStock, description } = toy
-    const toyToSave = { name, imgUrl, price, brands, productTypes, companies, inStock, description }
+    const { _id, name, imgUrls, price, brands, productTypes, companies, inStock, description } = toy
+    const toyToSave = { name, imgUrls, price, brands, productTypes, companies, inStock, description }
     const toyId = _id
 
     try {
