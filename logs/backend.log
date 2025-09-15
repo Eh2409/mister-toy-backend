@@ -80,3 +80,5 @@
 12.9.2025, 16:48:59 - ERROR - MongoServerError: the limit must be positive
 12.9.2025, 17:49:10 - ERROR - BSONError: hex string must be 24 characters
 13.9.2025, 23:33:35 - ERROR - ReferenceError: storageService is not defined
+15.9.2025, 11:06:31 - ERROR - Error: username or password invalid
+15.9.2025, 11:07:22 - ERROR - Error: username or password invalid

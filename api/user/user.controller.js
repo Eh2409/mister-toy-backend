@@ -34,7 +34,7 @@ export async function updateUser(req, res) {
     const { loggedinUser } = req
     const credentials = req.body
 
-    const { _id, username } = credentials
+    const { _id, username, imgUrl } = credentials
 
     if (!_id) {
         return res.status(400).send('Required fields are missing')
@@ -44,7 +44,7 @@ export async function updateUser(req, res) {
         return res.status(403).send('You are not authorized to update this user')
     }
 
-    const userToSave = { _id, username }
+    const userToSave = { _id, username, imgUrl }
 
     try {
         const savedUser = await userService.update(userToSave)

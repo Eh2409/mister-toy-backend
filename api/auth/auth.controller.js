@@ -28,14 +28,15 @@ export async function signup(req, res) {
 
     const credentials = req.body
 
-    const { username, password, fullname } = credentials
+    const { username, password, fullname, imgUrl } = credentials
+    console.log('credentials:', credentials)
 
     if (!username || !password || !fullname) {
         throw new Error("missing required credentials")
     }
 
     try {
-        const account = await authService.signup({ username, password, fullname })
+        const account = await authService.signup({ username, password, fullname, imgUrl })
 
         const user = await authService.login({ username, password })
 

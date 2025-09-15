@@ -63,7 +63,7 @@ async function remove(userId) {
 
 async function add(credentials) {
     try {
-        const { username, password, fullname } = credentials
+        const { username, password, fullname, imgUrl } = credentials
 
         if (!username || !password || !fullname) {
             throw new Error("missing required credentials")
@@ -80,6 +80,7 @@ async function add(credentials) {
             password,
             fullname,
             isAdmin: false,
+            imgUrl: imgUrl || ''
         }
 
         const collection = await dbService.getCollection('user')
@@ -97,7 +98,7 @@ async function add(credentials) {
 
 async function update(UpdatedCredentials) {
     try {
-        const { _id, username } = UpdatedCredentials
+        const { _id, username, imgUrl } = UpdatedCredentials
 
         if (!_id) {
             throw new Error("missing required credentials");
@@ -121,6 +122,8 @@ async function update(UpdatedCredentials) {
             user.username = username
             userToUpdate.username = username
         }
+
+        if (imgUrl) user.imgUrl = imgUrl
 
         const criteria = { _id: ObjectId.createFromHexString(_id) }
         const collection = await dbService.getCollection('user')

@@ -12,13 +12,13 @@ export const authService = {
 }
 
 async function signup(credentials) {
-    const { username, password, fullname } = credentials
+    const { username, password, fullname, imgUrl } = credentials
 
     const saltRounds = 10
 
     const hash = await bcrypt.hash(password, saltRounds)
 
-    const userToSave = { username, password: hash, fullname }
+    const userToSave = { username, password: hash, fullname, imgUrl }
 
     return await userService.add(userToSave)
 }
@@ -53,6 +53,7 @@ function getLoginToken(user) {
         username: user?.username,
         fullname: user?.fullname,
         isAdmin: user?.isAdmin,
+        imgUrl: user?.imgUrl,
     }
 
     const str = JSON.stringify(user)
