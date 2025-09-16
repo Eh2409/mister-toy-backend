@@ -63,14 +63,14 @@ async function query(filterBy = {}) {
 
             {
                 $project: {
-                    _id: 1,
-                    txt: 1,
-                    'toy._id': 1,
-                    'toy.name': 1,
-                    'user.username': 1,
-                    'user._id': 1,
-                    createdAt: 1,
-                    rating: 1
+                    _id: true,
+                    txt: true,
+                    'toy._id': true,
+                    'toy.name': true,
+                    'user.username': true,
+                    'user._id': true,
+                    createdAt: true,
+                    rating: true
                 }
             },
 
@@ -136,14 +136,14 @@ async function getById(reviewId) {
 
             {
                 $project: {
-                    _id: 1,
-                    txt: 1,
-                    'toy._id': 1,
-                    'toy.name': 1,
-                    'user.username': 1,
-                    'user._id': 1,
-                    createdAt: 1,
-                    rating: 1
+                    _id: true,
+                    txt: true,
+                    'toy._id': true,
+                    'toy.name': true,
+                    'user.username': true,
+                    'user._id': true,
+                    createdAt: true,
+                    rating: true
                 }
             },
 
