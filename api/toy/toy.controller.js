@@ -1,4 +1,5 @@
 import { loggerService } from "../../services/logger.service.js"
+import { socketService } from "../../services/socket.service.js"
 import { setBoolean } from "../../services/util.service.js"
 import { toyService } from "./toy.service.js"
 
@@ -28,10 +29,15 @@ export async function loadToys(req, res) {
 
 export async function removeToy(req, res) {
 
+    const { loggedinUser } = req
     const { toyId } = req.params
 
     try {
         const maxPage = await toyService.remove(toyId)
+
+        const msg = `Admin remove toy ${toyId}`
+        socketService.broadcast({ type: 'admin-update-site', data: msg, room: null, userId: loggedinUser?._id })
+
         res.send(maxPage)
     } catch (err) {
         loggerService.error(err)
@@ -42,6 +48,7 @@ export async function removeToy(req, res) {
 
 export async function addToy(req, res) {
 
+    const { loggedinUser } = req
     const toy = req.body
 
     const { name, imgUrls, price, brands, productTypes, companies, inStock, description } = toy
@@ -54,6 +61,10 @@ export async function addToy(req, res) {
 
     try {
         const savedToy = await toyService.add(toyToSave)
+
+        const msg = `Admin add toy ${savedToy.name}`
+        socketService.broadcast({ type: 'admin-update-site', data: msg, room: null, userId: loggedinUser?._id })
+
         res.send(savedToy)
     } catch (err) {
         loggerService.error(err)
@@ -62,7 +73,7 @@ export async function addToy(req, res) {
 }
 
 export async function updateToy(req, res) {
-
+    const { loggedinUser } = req
     const toy = req.body
 
     const { _id, name, imgUrls, price, inStock, description } = toy
@@ -73,6 +84,10 @@ export async function updateToy(req, res) {
 
     try {
         const savedToy = await toyService.update(toy)
+
+        const msg = `Admin updete toy ${savedToy.name}`
+        socketService.broadcast({ type: 'admin-update-site', data: msg, room: null, userId: loggedinUser?._id })
+
         res.send(savedToy)
     } catch (err) {
         loggerService.error(err)
