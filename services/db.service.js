@@ -1,12 +1,10 @@
 import { MongoClient } from 'mongodb'
+import { config } from '../config/index.js'
 
 export const dbService = {
     getCollection,
 }
 
-const url = 'mongodb://localhost:27017';
-
-const dbName = 'toy_pro_db'
 
 var dbConn = null
 
@@ -18,8 +16,8 @@ async function getCollection(collectionName) {
 async function _connect() {
     if (dbConn) return dbConn
     try {
-        const client = await MongoClient.connect(url)
-        const db = client.db(dbName)
+        const client = await MongoClient.connect(config.dbURL)
+        const db = client.db(config.dbName)
         dbConn = db
         return db
     } catch (err) {
