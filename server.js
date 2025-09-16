@@ -9,11 +9,15 @@ import { userRoutes } from './api/user/user.routes.js'
 import { authRoutes } from './api/auth/auth.routes.js'
 import { reviewRoutes } from './api/review/review.routes.js'
 
+// middleware
+import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
+
 const app = express()
 
 app.use(express.static('public'))
 app.use(cookieParser())
 app.use(express.json())
+app.set('query parser', 'extended')
 
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve('public')))
@@ -30,8 +34,8 @@ if (process.env.NODE_ENV === 'production') {
     app.use(cors(corsOptions))
 }
 
-app.set('query parser', 'extended')
 
+app.all('*all', setupAsyncLocalStorage)
 
 app.use('/api/toy', toyRoutes)
 app.use('/api/auth', authRoutes)
