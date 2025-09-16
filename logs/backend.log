@@ -82,3 +82,1117 @@
 13.9.2025, 23:33:35 - ERROR - ReferenceError: storageService is not defined
 15.9.2025, 11:06:31 - ERROR - Error: username or password invalid
 15.9.2025, 11:07:22 - ERROR - Error: username or password invalid
+16.9.2025, 13:43:23 - INFO - New connected socket [id: LrDUDLFQaAtIefDiAAAB]
+16.9.2025, 13:43:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 13:43:36 - INFO - New connected socket [id: NTeuJxGdUeyGYsuDAAAD]
+16.9.2025, 13:43:55 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 13:43:55 - INFO - New connected socket [id: BaGvwUxeTr-MULOgAAAF]
+16.9.2025, 13:44:27 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 13:49:16 - INFO - New connected socket [id: 1DF9rCQBN49Ret2YAAAB]
+16.9.2025, 13:49:25 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: 1DF9rCQBN49Ret2YAAAB]
+16.9.2025, 13:51:46 - INFO - New connected socket [id: I2yg7EUzaZl4rG8eAAAD]
+16.9.2025, 13:51:46 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: I2yg7EUzaZl4rG8eAAAD]
+16.9.2025, 13:51:48 - INFO - New connected socket [id: V9VuI03Xi6fhXOs2AAAF]
+16.9.2025, 13:51:48 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: V9VuI03Xi6fhXOs2AAAF]
+16.9.2025, 13:51:50 - INFO - New connected socket [id: zRx7qzA_lUNw8_K3AAAH]
+16.9.2025, 13:51:50 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: zRx7qzA_lUNw8_K3AAAH]
+16.9.2025, 14:04:45 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:04:46 - INFO - New connected socket [id: 9ihFnpQNWod8dzFiAAAJ]
+16.9.2025, 14:04:47 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:04:48 - INFO - New connected socket [id: vr_F7PZV3JW_B6SmAAAL]
+16.9.2025, 14:05:34 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:05:34 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:05:34 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:05:34 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:05:34 - INFO - New connected socket [id: kb5Gl6SDHHviBodYAAAN]
+16.9.2025, 14:05:34 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: kb5Gl6SDHHviBodYAAAN]
+16.9.2025, 14:06:35 - INFO - New connected socket [id: A6fdTv57U1JE7RC7AAAB]
+16.9.2025, 14:06:50 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:06:51 - INFO - New connected socket [id: mWq4HDUVsEH4MUv2AAAD]
+16.9.2025, 14:06:51 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: mWq4HDUVsEH4MUv2AAAD]
+16.9.2025, 14:07:04 - INFO - New connected socket [id: pu_b6WzJQBeFsroIAAAB]
+16.9.2025, 14:07:08 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:07:08 - INFO - New connected socket [id: dHoMLhKhR2LV-CvRAAAD]
+16.9.2025, 14:07:08 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: dHoMLhKhR2LV-CvRAAAD]
+16.9.2025, 14:09:08 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:09:08 - INFO - New connected socket [id: O_5lFfraZgC6UqrIAAAF]
+16.9.2025, 14:09:08 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: O_5lFfraZgC6UqrIAAAF]
+16.9.2025, 14:09:27 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:09:27 - INFO - New connected socket [id: PBXqcozhKiNJv2otAAAH]
+16.9.2025, 14:09:27 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: PBXqcozhKiNJv2otAAAH]
+16.9.2025, 14:09:51 - INFO - New connected socket [id: lqmCOFYniIddXNAbAAAB]
+16.9.2025, 14:09:52 - INFO - New connected socket [id: nZBjhBDioVuF-z_vAAAB]
+16.9.2025, 14:09:54 - INFO - New connected socket [id: hVs03tzCvZBOLhLMAAAB]
+16.9.2025, 14:10:00 - INFO - New connected socket [id: eR1pPieyhjE1mKSgAAAB]
+16.9.2025, 14:10:02 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:10:02 - INFO - New connected socket [id: nkeJnB_IfToSN3hAAAAD]
+16.9.2025, 14:10:03 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: nkeJnB_IfToSN3hAAAAD]
+16.9.2025, 14:10:12 - INFO - New connected socket [id: sbIGzNy1jSW_W0bmAAAB]
+16.9.2025, 14:20:54 - INFO - New connected socket [id: Y1OzQ7r1GX1gtDX3AAAB]
+16.9.2025, 14:22:25 - INFO - New connected socket [id: WLP4yyOW_wuNhe-MAAAD]
+16.9.2025, 14:22:25 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: WLP4yyOW_wuNhe-MAAAD]
+16.9.2025, 14:22:28 - INFO - New connected socket [id: jd8XUdYP2Kva4EJdAAAF]
+16.9.2025, 14:22:28 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: jd8XUdYP2Kva4EJdAAAF]
+16.9.2025, 14:22:28 - INFO - New connected socket [id: gzTciAsyGg29oA2bAAAH]
+16.9.2025, 14:22:28 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: gzTciAsyGg29oA2bAAAH]
+16.9.2025, 14:24:48 - INFO - New connected socket [id: -gWiALJB4wqtqI5dAAAJ]
+16.9.2025, 14:24:48 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: -gWiALJB4wqtqI5dAAAJ]
+16.9.2025, 14:24:48 - INFO - New connected socket [id: hfdRCWrXFYgxVBnZAAAL]
+16.9.2025, 14:24:48 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: hfdRCWrXFYgxVBnZAAAL]
+16.9.2025, 14:26:17 - INFO - New connected socket [id: n8wpz26wIFy2YMDfAAAN]
+16.9.2025, 14:26:17 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: n8wpz26wIFy2YMDfAAAN]
+16.9.2025, 14:27:24 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:27:24 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:27:24 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:27:24 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:27:24 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:27:24 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:27:24 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:27:24 - INFO - New connected socket [id: 44-dKZb2WiOykJprAAAP]
+16.9.2025, 14:27:24 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: 44-dKZb2WiOykJprAAAP]
+16.9.2025, 14:27:46 - INFO - New connected socket [id: hvUEDPF9ug67qUmBAAAB]
+16.9.2025, 14:28:05 - INFO - New connected socket [id: VcYH0t3IbgBdtk1fAAAB]
+16.9.2025, 14:30:09 - INFO - New connected socket [id: kGd4xHV_tMRHgZJ8AAAD]
+16.9.2025, 14:30:09 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: kGd4xHV_tMRHgZJ8AAAD]
+16.9.2025, 14:30:12 - INFO - New connected socket [id: EfkHa8KwKOcfkcKgAAAF]
+16.9.2025, 14:30:12 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: EfkHa8KwKOcfkcKgAAAF]
+16.9.2025, 14:31:47 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:31:47 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:31:47 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:31:48 - INFO - New connected socket [id: TTI_x59DC-zr7kzuAAAH]
+16.9.2025, 14:31:48 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: TTI_x59DC-zr7kzuAAAH]
+16.9.2025, 14:31:53 - INFO - New connected socket [id: 4DWZMV621eRZbmdwAAAJ]
+16.9.2025, 14:32:50 - INFO - New connected socket [id: q8sFJ1tYUjRn-ldjAAAC]
+16.9.2025, 14:32:50 - INFO - New connected socket [id: k_YP4xYjiBRJLYgcAAAD]
+16.9.2025, 14:32:52 - INFO - New connected socket [id: X6jVI26DY2-8MlI7AAAB]
+16.9.2025, 14:32:53 - INFO - New connected socket [id: aZdqtYdL4lYIzICOAAAD]
+16.9.2025, 14:32:57 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:32:57 - INFO - New connected socket [id: ym6mWREq82SjAIz-AAAF]
+16.9.2025, 14:33:02 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:33:02 - INFO - New connected socket [id: UtDOTciWzjdPLOX-AAAH]
+16.9.2025, 14:33:02 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: UtDOTciWzjdPLOX-AAAH]
+16.9.2025, 14:33:06 - INFO - New chat msg from socket [id: UtDOTciWzjdPLOX-AAAH], emitting to topic 68c8081e6c4c67aef1553782
+16.9.2025, 14:33:30 - INFO - Socket is leaving topic 68c8081e6c4c67aef1553782 [id: UtDOTciWzjdPLOX-AAAH]
+16.9.2025, 14:33:34 - INFO - Socket is leaving topic 68c8081e6c4c67aef1553782 [id: ym6mWREq82SjAIz-AAAF]
+16.9.2025, 14:33:41 - INFO - New chat msg from socket [id: UtDOTciWzjdPLOX-AAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:34:50 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: ym6mWREq82SjAIz-AAAF]
+16.9.2025, 14:34:53 - INFO - New chat msg from socket [id: ym6mWREq82SjAIz-AAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:35:05 - INFO - New chat msg from socket [id: UtDOTciWzjdPLOX-AAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:37:44 - INFO - New connected socket [id: QvezMUJqUvSEeBcJAAAC]
+16.9.2025, 14:37:44 - INFO - New connected socket [id: 9nCYmCKZgvQaiu9jAAAD]
+16.9.2025, 14:37:46 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:37:46 - INFO - New connected socket [id: 8t9B4VEPdaEpKeMVAAAF]
+16.9.2025, 14:37:46 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: 8t9B4VEPdaEpKeMVAAAF]
+16.9.2025, 14:37:53 - INFO - New chat msg from socket [id: 8t9B4VEPdaEpKeMVAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:07 - INFO - New chat msg from socket [id: 8t9B4VEPdaEpKeMVAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:11 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 14:38:11 - INFO - New connected socket [id: IVo4Na2N67inEcznAAAH]
+16.9.2025, 14:38:11 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: IVo4Na2N67inEcznAAAH]
+16.9.2025, 14:38:15 - INFO - New chat msg from socket [id: IVo4Na2N67inEcznAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:20 - INFO - New chat msg from socket [id: 8t9B4VEPdaEpKeMVAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:24 - INFO - New chat msg from socket [id: IVo4Na2N67inEcznAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:31 - INFO - New chat msg from socket [id: 8t9B4VEPdaEpKeMVAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:41 - INFO - New chat msg from socket [id: IVo4Na2N67inEcznAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:44 - INFO - New chat msg from socket [id: IVo4Na2N67inEcznAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:48 - INFO - New chat msg from socket [id: 8t9B4VEPdaEpKeMVAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:38:52 - INFO - New chat msg from socket [id: 8t9B4VEPdaEpKeMVAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 14:42:02 - INFO - Socket is leaving topic 68c80a256c4c67aef1553783 [id: 8t9B4VEPdaEpKeMVAAAF]
+16.9.2025, 14:42:05 - INFO - New chat msg from socket [id: 8t9B4VEPdaEpKeMVAAAF], emitting to topic 68c7c5cdbbd03fcb5ab02a70
+16.9.2025, 15:10:23 - INFO - New connected socket [id: f_K30egMKO7cV5jJAAAC]
+16.9.2025, 15:10:23 - INFO - New connected socket [id: 19cZJi5JYv4WNqOOAAAD]
+16.9.2025, 15:10:33 - INFO - New connected socket [id: fprOXB9WosGj3YzcAAAC]
+16.9.2025, 15:10:33 - INFO - New connected socket [id: rDxtRiU7C6Wscn0OAAAD]
+16.9.2025, 15:11:07 - INFO - New connected socket [id: -bRMmwYpqmCxCn8oAAAC]
+16.9.2025, 15:11:07 - INFO - New connected socket [id: IvFsVXGF8NUAe5ytAAAD]
+16.9.2025, 15:11:14 - INFO - New connected socket [id: W4Du-Y__cEsJX4MOAAAC]
+16.9.2025, 15:11:14 - INFO - New connected socket [id: 9_i8p74WkLDBKdpYAAAD]
+16.9.2025, 15:11:20 - INFO - New connected socket [id: xBjBveGW4ud7BtYwAAAC]
+16.9.2025, 15:11:20 - INFO - New connected socket [id: lUeoYeiNOvPC0STxAAAD]
+16.9.2025, 15:11:22 - INFO - New connected socket [id: ffnM37cLCCGpfRhjAAAB]
+16.9.2025, 15:11:23 - INFO - New connected socket [id: g8XFl8hWxBfeegxfAAAD]
+16.9.2025, 15:11:47 - INFO - New connected socket [id: 2J1GhcZGHNXie8SlAAAB]
+16.9.2025, 15:11:48 - INFO - New connected socket [id: JS11PHUBpaggSSO_AAAD]
+16.9.2025, 15:12:30 - INFO - New connected socket [id: clp-9i-H7K-jmFqoAAAC]
+16.9.2025, 15:12:30 - INFO - New connected socket [id: 7lVNnbi2NERUU9IEAAAD]
+16.9.2025, 15:13:12 - INFO - New connected socket [id: x19QuiIQwpHVQcS0AAAG]
+16.9.2025, 15:13:12 - INFO - New connected socket [id: dI45GyxlPe9ikPBZAAAH]
+16.9.2025, 15:13:12 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: x19QuiIQwpHVQcS0AAAG]
+16.9.2025, 15:13:12 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: dI45GyxlPe9ikPBZAAAH]
+16.9.2025, 15:13:14 - INFO - New connected socket [id: 6lw8PSiVN78KtOpuAAAK]
+16.9.2025, 15:13:14 - INFO - New connected socket [id: e5hJkRRm8ZMfuL2MAAAL]
+16.9.2025, 15:13:14 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 6lw8PSiVN78KtOpuAAAK]
+16.9.2025, 15:13:14 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: e5hJkRRm8ZMfuL2MAAAL]
+16.9.2025, 15:13:19 - INFO - New connected socket [id: vwssmiC3yzEIeQGPAAAO]
+16.9.2025, 15:13:19 - INFO - New connected socket [id: pHTtyIZL28tYM7h1AAAP]
+16.9.2025, 15:13:19 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: vwssmiC3yzEIeQGPAAAO]
+16.9.2025, 15:13:19 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: pHTtyIZL28tYM7h1AAAP]
+16.9.2025, 15:13:28 - INFO - New connected socket [id: KXoPsZgN2rIvdqHIAAAR]
+16.9.2025, 15:13:28 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: KXoPsZgN2rIvdqHIAAAR]
+16.9.2025, 15:13:28 - INFO - New connected socket [id: hH8UsQrIs-246nm7AAAT]
+16.9.2025, 15:13:28 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: hH8UsQrIs-246nm7AAAT]
+16.9.2025, 15:13:28 - INFO - New connected socket [id: 3M8C0UthvFR_7ugEAAAV]
+16.9.2025, 15:13:28 - INFO - New connected socket [id: HENbBVv3ijPjwTZ3AAAX]
+16.9.2025, 15:13:28 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 3M8C0UthvFR_7ugEAAAV]
+16.9.2025, 15:13:28 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: HENbBVv3ijPjwTZ3AAAX]
+16.9.2025, 15:13:33 - INFO - New connected socket [id: K338GgWIUZp0Mm26AAAa]
+16.9.2025, 15:13:33 - INFO - New connected socket [id: aeCFKl1LKK8nxXdpAAAb]
+16.9.2025, 15:13:33 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: K338GgWIUZp0Mm26AAAa]
+16.9.2025, 15:13:33 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: aeCFKl1LKK8nxXdpAAAb]
+16.9.2025, 15:15:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:29 - INFO - New connected socket [id: L0PH8UOBtCf7IJIUAAAd]
+16.9.2025, 15:15:29 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: L0PH8UOBtCf7IJIUAAAd]
+16.9.2025, 15:15:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:35 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 15:15:35 - INFO - New connected socket [id: 6Xl2Xo9CejyTnBagAAAf]
+16.9.2025, 15:15:35 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 6Xl2Xo9CejyTnBagAAAf]
+16.9.2025, 15:15:43 - INFO - Socket is leaving topic 68c7c5cdbbd03fcb5ab02a70 [id: L0PH8UOBtCf7IJIUAAAd]
+16.9.2025, 15:15:51 - INFO - New chat msg from socket [id: L0PH8UOBtCf7IJIUAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 15:15:56 - INFO - New chat msg from socket [id: L0PH8UOBtCf7IJIUAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:08:42 - INFO - New connected socket [id: 4vn4SNN5A3BMlHXKAAAh]
+16.9.2025, 16:08:42 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 4vn4SNN5A3BMlHXKAAAh]
+16.9.2025, 16:08:42 - INFO - New connected socket [id: WgNz4MyQ1DEHuwjlAAAj]
+16.9.2025, 16:08:42 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: WgNz4MyQ1DEHuwjlAAAj]
+16.9.2025, 16:08:52 - INFO - New connected socket [id: 1JPLm9b_AkSYK79lAAAl]
+16.9.2025, 16:08:52 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 1JPLm9b_AkSYK79lAAAl]
+16.9.2025, 16:08:52 - INFO - New connected socket [id: sSRAuLGLnIfYG6CKAAAn]
+16.9.2025, 16:08:52 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: sSRAuLGLnIfYG6CKAAAn]
+16.9.2025, 16:12:41 - INFO - New connected socket [id: OR6f1BhxOwOrxY5-AAAq]
+16.9.2025, 16:12:41 - INFO - New connected socket [id: ca-AtTqNOGEHvYIzAAAr]
+16.9.2025, 16:12:41 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: OR6f1BhxOwOrxY5-AAAq]
+16.9.2025, 16:12:41 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: ca-AtTqNOGEHvYIzAAAr]
+16.9.2025, 16:12:44 - INFO - New connected socket [id: SqX0UwpBKryynsKTAAAt]
+16.9.2025, 16:12:44 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: SqX0UwpBKryynsKTAAAt]
+16.9.2025, 16:12:44 - INFO - New connected socket [id: TxdUa10Qb8RpH0rjAAAv]
+16.9.2025, 16:12:44 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: TxdUa10Qb8RpH0rjAAAv]
+16.9.2025, 16:12:49 - INFO - New connected socket [id: nrEJVgoBwkYUR8q6AAAx]
+16.9.2025, 16:12:49 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: nrEJVgoBwkYUR8q6AAAx]
+16.9.2025, 16:12:49 - INFO - New connected socket [id: YMnHPutIeZhAQz6eAAAz]
+16.9.2025, 16:12:49 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: YMnHPutIeZhAQz6eAAAz]
+16.9.2025, 16:12:52 - INFO - New connected socket [id: 77UgyrYkqGnDtfL5AAA1]
+16.9.2025, 16:12:52 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 77UgyrYkqGnDtfL5AAA1]
+16.9.2025, 16:12:52 - INFO - New connected socket [id: LTd2O6hGteJAkR6ZAAA3]
+16.9.2025, 16:12:52 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: LTd2O6hGteJAkR6ZAAA3]
+16.9.2025, 16:13:29 - INFO - New connected socket [id: D3CoHDaGMy-Tgt82AAA5]
+16.9.2025, 16:13:29 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: D3CoHDaGMy-Tgt82AAA5]
+16.9.2025, 16:13:29 - INFO - New connected socket [id: 2BoTkADraJ6wWKYBAAA7]
+16.9.2025, 16:13:30 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: 2BoTkADraJ6wWKYBAAA7]
+16.9.2025, 16:13:31 - INFO - New connected socket [id: YqsKvc0YhSQxsbNwAAA-]
+16.9.2025, 16:13:31 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: YqsKvc0YhSQxsbNwAAA-]
+16.9.2025, 16:13:31 - INFO - New connected socket [id: DkZf5c9jTYo0Md1vAAA_]
+16.9.2025, 16:13:31 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: DkZf5c9jTYo0Md1vAAA_]
+16.9.2025, 16:13:35 - INFO - New connected socket [id: mzxD0C-JXWIM_rQMAABB]
+16.9.2025, 16:13:35 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: mzxD0C-JXWIM_rQMAABB]
+16.9.2025, 16:13:35 - INFO - New connected socket [id: OG5uOt28TnoQBnzKAABD]
+16.9.2025, 16:13:35 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: OG5uOt28TnoQBnzKAABD]
+16.9.2025, 16:13:41 - INFO - New connected socket [id: KO3pXE9rO7GfMCZKAABF]
+16.9.2025, 16:13:41 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: KO3pXE9rO7GfMCZKAABF]
+16.9.2025, 16:13:41 - INFO - New connected socket [id: jQyYi9CoKhUrCDrbAABH]
+16.9.2025, 16:13:41 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: jQyYi9CoKhUrCDrbAABH]
+16.9.2025, 16:30:38 - INFO - New connected socket [id: IaXLUeXjR3IlQ2A0AABK]
+16.9.2025, 16:30:38 - INFO - New connected socket [id: BrssUjllR8N-sMI0AABL]
+16.9.2025, 16:30:38 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: IaXLUeXjR3IlQ2A0AABK]
+16.9.2025, 16:30:38 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: BrssUjllR8N-sMI0AABL]
+16.9.2025, 16:30:45 - INFO - New connected socket [id: zdQmfcBfoouPkCFEAABN]
+16.9.2025, 16:30:45 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: zdQmfcBfoouPkCFEAABN]
+16.9.2025, 16:30:45 - INFO - New connected socket [id: D2wXn1Bq9qOgKXmwAABP]
+16.9.2025, 16:30:45 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: D2wXn1Bq9qOgKXmwAABP]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: zMWix2H6u7j1pgReAAAS]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: fsh9-uu0eRoSnslYAAAV]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: T2IsRy9RgEAj19mDAAAZ]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: zsh1gbDMisCmwORUAAAY]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: BX4vw0gSLl3UozyBAAAX]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: sV4NiXjbMC3bUZOCAAAa]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: DL7bczfvZ8yCHjpbAAAb]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: qolzqMlMd0YD34_FAAAc]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: 21__z_ajFlNmForJAAAd]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: tZFNyW3h2ndzYgmgAAAe]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: AjRgw7icZWwh0ddoAAAf]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: XBk8jgXdt9b9kioPAAAg]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: 2mFgLgyEYiW42WSiAAAh]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: JDJTe68N1DGxKBl-AAAi]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: KMX-c8KFlu1JbOFPAAAj]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: pMubU4MRwMn072SJAAAk]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: NU4i-1AIXWMdK12HAAAl]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: -8KHmeF0iBoLQS1iAAAm]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: JD08uk1V7wpyCu2QAAAn]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: AmRAnkMkrL7RQQ7IAAAo]
+16.9.2025, 16:37:54 - INFO - New connected socket [id: kExdjffTZMYzqEzcAAAp]
+16.9.2025, 16:37:55 - INFO - New connected socket [id: NzzdeKBxxcjqBBPnAAAu]
+16.9.2025, 16:37:55 - INFO - New connected socket [id: OE6YhLsuhnHCugb3AAAv]
+16.9.2025, 16:37:55 - INFO - New connected socket [id: RuqlCgdCTOlZp-HTAAAx]
+16.9.2025, 16:37:55 - INFO - New connected socket [id: NpnX0BAOfP2LvFeeAAAy]
+16.9.2025, 16:37:55 - INFO - New connected socket [id: HX3bVrVfhQV58jcsAAAz]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: DJevkbk7GP9uLXpUAAAZ]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: XEIwkW3hBWJ1csUrAAAa]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: PYNy5kUCRVlq65enAAAc]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: VBGZ2d0hF-YU1ZUGAAAd]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: 4jMMtaLCwjat91ecAAAf]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: Nr-k5IRAcxX6mAhTAAAg]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: nKWMfziHY1kJswhfAAAe]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: PGvGaTkqPSXnn41oAAAh]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: wBgS4wSnBTPhB389AAAi]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: 6C03kqOsPnbVjvrkAAAj]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: acRiOelpk1DyjqrjAAAk]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: eWVDD32Car_Y_XC2AAAl]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: fn6_lcGzX2imGrrGAAAm]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: mDQZxZnatswmTP3rAAAo]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: _YvGyWOxtnUkonM7AAAn]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: bxRVSwz8fZx7LskmAAAp]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: 6EoXtXky8ypLUo8fAAAq]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: -jcn4g2BpQyRrf-BAAAr]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: 3pCD12eMaMosCrofAAAs]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: bgBMnPVj5zydyL3zAAAt]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: V1UsIGZxgesu-BvWAAAu]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: 14Y0UEQjOZtHe6KuAAAw]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: AAw5J3Q4Iw5MHXgPAAAv]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: tb_4D0BiKE1CjZz-AAAy]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: r4FSq6dnhWkj9PRdAAAx]
+16.9.2025, 16:38:27 - INFO - New connected socket [id: fYJ5RhWnSrRApeBCAAAz]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: UNrHY7kDVhk3P7ozAAAJ]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: DDvHs8eLgvSXYHxdAAAK]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: -722ZMqEtQ8tbpgAAAAL]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: mHySxwpawAqaQZYQAAAN]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: qEJvE1CVJMSq7P84AAAM]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: JlGe2kPkYz1MWHk7AAAP]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: Q6kNBVixPqoXsqtCAAAO]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: eqLyUNTJxfLTff1HAAAQ]
+16.9.2025, 16:38:29 - INFO - New connected socket [id: V0g91K3QWDLn5rLBAAAR]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: i_593On1rBKda_qbAAAf]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: 54CFN81v9LBTIaypAAAj]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: z1HFgJ4wY13EhRyTAAAl]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: ABYQUNMZBCOI-1lQAAAm]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: zxRcLDzO4z6A9WmZAAAn]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: jY617WAMG6Qeh0IUAAAo]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: ANuPHQYvMaXJVh18AAAp]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: ioOQ2feoJ9cjKi0iAAAq]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: 1QPKDQTyB1g_12neAAAr]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: A-H81U-7XmLrwAAhAAAs]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: sXDZyZumYKGk8pylAAAt]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: se9dSSHfT6BAbtx4AAAu]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: BA7a_qvxnKneIrZEAAAv]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: IrkyDQZcVh3MWOv6AAAx]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: 6-k9vtLDbgQoO_viAAAw]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: IPfvKLfiaKJdi9A0AAAy]
+16.9.2025, 16:38:30 - INFO - New connected socket [id: M3pabZiqlq84k--8AAAz]
+16.9.2025, 16:38:33 - INFO - New connected socket [id: pOtz5NbSn14GYA6GAAAF]
+16.9.2025, 16:38:33 - INFO - New connected socket [id: dTQ9jPRmvR5BF-_sAAAI]
+16.9.2025, 16:38:33 - INFO - New connected socket [id: mszM7-GQG9dHhBL2AAAG]
+16.9.2025, 16:38:33 - INFO - New connected socket [id: u9cGv_ymbbNVeJm5AAAK]
+16.9.2025, 16:38:33 - INFO - New connected socket [id: R99KyziLKrrs_XmcAAAL]
+16.9.2025, 16:38:33 - INFO - New connected socket [id: 6K4PlFeJAPxKx3QkAAAM]
+16.9.2025, 16:38:33 - INFO - New connected socket [id: dXMmJjnMQbkKPgiaAAAN]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: ebzRFYHdKMvVZrPIAAAf]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: lujSsXB3BoY9BeMTAAAi]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: RJjRlf1KIzT1llHgAAAj]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: 5xx21wIpRoUbN7XhAAAk]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: NHx739UCMm5KGS2wAAAl]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: hxVBwX9WuHEyG2SPAAAm]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: pn-w8-DoNsWA4FJHAAAn]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: -WoxidG8kwlq1-E0AAAo]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: Xkb0sIqTqGjI_g8sAAAp]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: 5xmfBDiv_oJvR4AMAAAq]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: 3rBshmZbMI9N7abvAAAr]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: sNlMNo8H08YZoTckAAAs]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: QGJ1BYQHhp-0yCy9AAAt]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: 4Ecw9nnFJXg3D4fWAAAu]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: ue1FGj7stD2UVoWUAAAv]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: IOpkduy8dnqfc4hyAAAw]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: ricEem68kXvPp3OfAAAx]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: WPsAQ9u0j2Wy0JUxAAAy]
+16.9.2025, 16:38:34 - INFO - New connected socket [id: qg5wwfLd8VhMtM3BAAAz]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: AUqqVjN7BVlRW3zOAAAV]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: sYDyxKb2JlxAGqlhAAAS]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: mvtqcT70hPUvZ9hqAAAZ]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: mX992HAK0ZVCF74PAAAa]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: qeKSB5RPr7s_s58GAAAY]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: V0U7fo_ho5FG1_jWAAAb]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: fsPw8k0xB6KLaoiVAAAc]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: u5WMa8xBOeprh8QnAAAe]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: nVBfJzDLbj6ALyr9AAAd]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: iBpvB8GDp6kip7c_AAAf]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: GdL2KVYbzX44BgAJAAAg]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: wFpImwa_Ox6eRNE8AAAh]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: Q6rBJtuST8THXQUgAAAi]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: tXmK9ZJLDBEb4JuUAAAj]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: zNa3EZGA16UB2pDAAAAk]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: uQJ4lKp4AzKKlYwxAAAl]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: KttmIEGYbkpm9UZ5AAAm]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: 48JuUDAddP-JIMRvAAAn]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: NGuYrWyrk75QC0SFAAAo]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: eWlQxwR5Nyqpbx_1AAAp]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: ObRRKRYOKyfR0kabAAAq]
+16.9.2025, 16:38:37 - INFO - New connected socket [id: 0wCZySqEP-L3jHZZAAAr]
+16.9.2025, 16:38:38 - INFO - New connected socket [id: oHWgjMUlzcdb5nIwAAAw]
+16.9.2025, 16:38:38 - INFO - New connected socket [id: 2Fi72KRp2f6Ft2zzAAAx]
+16.9.2025, 16:38:38 - INFO - New connected socket [id: w8HySEXJwNyW08A9AAAy]
+16.9.2025, 16:38:38 - INFO - New connected socket [id: h_2NZvN45f8WvVfsAAAz]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: yIgnI6YRjp1yAdh9AAAZ]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: Oib_onTNETyVJ-cIAAAc]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: U0bPUfk04YokMgr5AAAY]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: bl51n0XHKa-e8RKYAAAd]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: uUHJvl_GO4aZN5u4AAAa]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: JasI3D6Qvoz-MsgmAAAe]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: VFCewMW2J7B4vYgjAAAf]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: V4_EZoGwNbXqRIBqAAAh]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: KXG-rKEdapV-KLp7AAAg]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: _VMMwkf0_Le1VKCHAAAi]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: Tupuxdq2ik7A8feyAAAj]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: NvyLp37Mstb1QolBAAAk]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: 1OwZRa2aiCtXafwwAAAl]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: 0FPonrzt0JGmct9YAAAm]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: hFyTKRyRJZI_loNVAAAn]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: ZsBf3LJfiX_legPTAAAo]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: SOay6_EUBUmWQiUUAAAp]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: t6HGBS4hwiTgdy9uAAAq]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: RFK_T419cpI1R1i9AAAr]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: ouT3gpnEBNzbYQwtAAAs]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: PW76Tp6_jgY0HY85AAAt]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: cd_eLE-FnviqcPV-AAAu]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: v27Nob8UX4ueZaRdAAAv]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: WYXEb2j5FV46Rc-BAAAw]
+16.9.2025, 16:38:53 - INFO - New connected socket [id: 1OyNx1-nSJpgoRJdAAAx]
+16.9.2025, 16:38:54 - INFO - New connected socket [id: 0NGENjntJKjVgpVpAAAz]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:38:56 - INFO - New connected socket [id: OF1MPQ4q0Y1gBnmbAAA1]
+16.9.2025, 16:38:56 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: OF1MPQ4q0Y1gBnmbAAA1]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:39:00 - INFO - New connected socket [id: LSQqffRw9KVPHekKAAA3]
+16.9.2025, 16:39:00 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: LSQqffRw9KVPHekKAAA3]
+16.9.2025, 16:39:09 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:09 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:09 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:11 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:11 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:12 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:12 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:12 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:12 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:12 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:12 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:13 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:14 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:15 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:16 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:17 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:17 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:27 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:27 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:27 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:28 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:39:29 - INFO - New chat msg from socket [id: LSQqffRw9KVPHekKAAA3], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:42:00 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:42:00 - INFO - New connected socket [id: WGKhbCoW9GhzApKRAAA5]
+16.9.2025, 16:42:01 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: WGKhbCoW9GhzApKRAAA5]
+16.9.2025, 16:42:03 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:42:03 - INFO - New connected socket [id: 3xeZfZ-o2y5rnCdGAAA7]
+16.9.2025, 16:42:03 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: 3xeZfZ-o2y5rnCdGAAA7]
+16.9.2025, 16:42:16 - INFO - New chat msg from socket [id: 3xeZfZ-o2y5rnCdGAAA7], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:42:19 - INFO - New chat msg from socket [id: 3xeZfZ-o2y5rnCdGAAA7], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:42:25 - INFO - New chat msg from socket [id: 3xeZfZ-o2y5rnCdGAAA7], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:42:26 - INFO - New chat msg from socket [id: 3xeZfZ-o2y5rnCdGAAA7], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:42:28 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:42:28 - INFO - New connected socket [id: d40uu0L9M9yMrg-HAAA9]
+16.9.2025, 16:42:28 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: d40uu0L9M9yMrg-HAAA9]
+16.9.2025, 16:42:32 - INFO - New chat msg from socket [id: WGKhbCoW9GhzApKRAAA5], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:42:33 - INFO - New chat msg from socket [id: WGKhbCoW9GhzApKRAAA5], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:43:26 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:43:26 - INFO - New connected socket [id: hUKfwBeJuU391pp1AAA_]
+16.9.2025, 16:43:26 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: hUKfwBeJuU391pp1AAA_]
+16.9.2025, 16:43:32 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:43:32 - INFO - New connected socket [id: NFmu7_WWf5CCZDXzAABB]
+16.9.2025, 16:43:32 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: NFmu7_WWf5CCZDXzAABB]
+16.9.2025, 16:43:36 - INFO - New chat msg from socket [id: hUKfwBeJuU391pp1AAA_], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:43:39 - INFO - New chat msg from socket [id: hUKfwBeJuU391pp1AAA_], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:45:38 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:45:38 - INFO - New connected socket [id: hXDfnEuuLp8PnxYZAABD]
+16.9.2025, 16:45:38 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: hXDfnEuuLp8PnxYZAABD]
+16.9.2025, 16:45:39 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:45:39 - INFO - New connected socket [id: 43VbyKohG_Y-y-fGAABF]
+16.9.2025, 16:45:39 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 43VbyKohG_Y-y-fGAABF]
+16.9.2025, 16:45:39 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:45:40 - INFO - New connected socket [id: t-fXkEaj1riNAE_XAABH]
+16.9.2025, 16:45:40 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: t-fXkEaj1riNAE_XAABH]
+16.9.2025, 16:45:48 - INFO - New chat msg from socket [id: t-fXkEaj1riNAE_XAABH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:27 - INFO - New connected socket [id: en7-d88-WBsh64AMAAAB]
+16.9.2025, 16:46:27 - INFO - New connected socket [id: zXnH0Kq_KYC0sFv1AAAD]
+16.9.2025, 16:46:29 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:46:29 - INFO - New connected socket [id: 9kROZIwrqaP0tAAMAAAF]
+16.9.2025, 16:46:29 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: 9kROZIwrqaP0tAAMAAAF]
+16.9.2025, 16:46:30 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:46:30 - INFO - New connected socket [id: aG4yCfhdEoKAZJSkAAAH]
+16.9.2025, 16:46:30 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: aG4yCfhdEoKAZJSkAAAH]
+16.9.2025, 16:46:32 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:36 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:41 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:44 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:46 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:47 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:48 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:51 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:52 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:53 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:54 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:55 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:57 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:46:58 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:00 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:01 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:13 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:16 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:28 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:30 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:31 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:32 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:33 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:35 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:37 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:38 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:40 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:41 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:47:43 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:00 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:04 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:05 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:10 - INFO - New chat msg from socket [id: aG4yCfhdEoKAZJSkAAAH], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:11 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:40 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:43 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:44 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:46 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:48 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:50 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:52 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:48:53 - INFO - New chat msg from socket [id: 9kROZIwrqaP0tAAMAAAF], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:49:47 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:49:47 - INFO - New connected socket [id: WL26wHcbKK_i_5guAAAJ]
+16.9.2025, 16:49:47 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: WL26wHcbKK_i_5guAAAJ]
+16.9.2025, 16:49:48 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:49:48 - INFO - New connected socket [id: J9_oc5J7JL00ItigAAAL]
+16.9.2025, 16:49:48 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: J9_oc5J7JL00ItigAAAL]
+16.9.2025, 16:49:49 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:49:49 - INFO - New connected socket [id: ffwAtJVLAi-V70_zAAAN]
+16.9.2025, 16:49:49 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: ffwAtJVLAi-V70_zAAAN]
+16.9.2025, 16:49:51 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:49:51 - INFO - New connected socket [id: R7QihXmbtIqgEu_fAAAP]
+16.9.2025, 16:49:51 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: R7QihXmbtIqgEu_fAAAP]
+16.9.2025, 16:49:54 - INFO - New chat msg from socket [id: ffwAtJVLAi-V70_zAAAN], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:49:57 - INFO - New chat msg from socket [id: ffwAtJVLAi-V70_zAAAN], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:49:58 - INFO - New chat msg from socket [id: ffwAtJVLAi-V70_zAAAN], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:49:59 - INFO - New chat msg from socket [id: ffwAtJVLAi-V70_zAAAN], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:43 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:50:43 - INFO - New connected socket [id: f-m_EX3LjJYcNOAAAAAR]
+16.9.2025, 16:50:43 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: f-m_EX3LjJYcNOAAAAAR]
+16.9.2025, 16:50:45 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:50:45 - INFO - New connected socket [id: aLWh9KuHOck7ICvYAAAT]
+16.9.2025, 16:50:46 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: aLWh9KuHOck7ICvYAAAT]
+16.9.2025, 16:50:48 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:49 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:52 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:53 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:54 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:57 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:58 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:50:59 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:01 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:02 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:03 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:07 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:09 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:10 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:12 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:14 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:15 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:16 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:17 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:18 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:20 - INFO - New chat msg from socket [id: aLWh9KuHOck7ICvYAAAT], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:49 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:51:49 - INFO - New connected socket [id: VERgiAtbj-Oi0-NrAAAV]
+16.9.2025, 16:51:49 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: VERgiAtbj-Oi0-NrAAAV]
+16.9.2025, 16:51:50 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:51:50 - INFO - New connected socket [id: wmYtTM0UuZUoZWZZAAAX]
+16.9.2025, 16:51:50 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: wmYtTM0UuZUoZWZZAAAX]
+16.9.2025, 16:51:52 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:52 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:52 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:52 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:52 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:52 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:56 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:56 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:56 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:51:56 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:07 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:07 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:07 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:07 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:15 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:15 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:15 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:15 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:15 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:16 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:18 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:19 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:22 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:26 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:26 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:27 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:27 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:27 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:27 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:28 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:29 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:29 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:29 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:29 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:30 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:54 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:54 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:54 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:54 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:55 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:56 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:57 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:57 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:57 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:58 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:58 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:58 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:58 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:58 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:58 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:52:59 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:05 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:06 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:08 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:09 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:10 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:10 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:10 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:11 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:12 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:12 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:12 - INFO - New chat msg from socket [id: wmYtTM0UuZUoZWZZAAAX], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:14 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:53:14 - INFO - New connected socket [id: RZX612CoS5eKcDOUAAAZ]
+16.9.2025, 16:53:15 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: RZX612CoS5eKcDOUAAAZ]
+16.9.2025, 16:53:15 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:53:16 - INFO - New connected socket [id: 0TcQI7cnlGgA7kLSAAAb]
+16.9.2025, 16:53:16 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: 0TcQI7cnlGgA7kLSAAAb]
+16.9.2025, 16:53:18 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:18 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:18 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:19 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:20 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:20 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:20 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:22 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:24 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:25 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:26 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:27 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:28 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:29 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:30 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:30 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:31 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:33 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:34 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:35 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:37 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:38 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:39 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:40 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:41 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:41 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:41 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:41 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:43 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:43 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:43 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:43 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:43 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:43 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:43 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:44 - INFO - New chat msg from socket [id: RZX612CoS5eKcDOUAAAZ], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:48 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:48 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:48 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:49 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:49 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:49 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:49 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:53:50 - INFO - New chat msg from socket [id: 0TcQI7cnlGgA7kLSAAAb], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:02 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:54:02 - INFO - New connected socket [id: KJxkDH9rlTTIUj6DAAAd]
+16.9.2025, 16:54:02 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: KJxkDH9rlTTIUj6DAAAd]
+16.9.2025, 16:54:03 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 16:54:03 - INFO - New connected socket [id: nEB74eL5RTWaOUQjAAAf]
+16.9.2025, 16:54:03 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: nEB74eL5RTWaOUQjAAAf]
+16.9.2025, 16:54:07 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:09 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:11 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:12 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:13 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:14 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:16 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:17 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:22 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:23 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:27 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:28 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:30 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:31 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:32 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:33 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:34 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:35 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:41 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:44 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:45 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:47 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:57 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:54:59 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:00 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:01 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:02 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:03 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:04 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:06 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:07 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:08 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:09 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:10 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:11 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:12 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:14 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:17 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:18 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:20 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:21 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:22 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:23 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:24 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:25 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:28 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:40 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:43 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:44 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:46 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:47 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:49 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:50 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:51 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:53 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:54 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:55 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:55:56 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:56:12 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:56:14 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:56:15 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 16:56:17 - INFO - New chat msg from socket [id: KJxkDH9rlTTIUj6DAAAd], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:11:51 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:11:51 - INFO - New connected socket [id: kBgn5Tzbh-iwLp-QAAAh]
+16.9.2025, 17:11:52 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: kBgn5Tzbh-iwLp-QAAAh]
+16.9.2025, 17:12:19 - INFO - New chat msg from socket [id: kBgn5Tzbh-iwLp-QAAAh], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:21 - INFO - New chat msg from socket [id: kBgn5Tzbh-iwLp-QAAAh], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:22 - INFO - New chat msg from socket [id: kBgn5Tzbh-iwLp-QAAAh], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:34 - INFO - New chat msg from socket [id: kBgn5Tzbh-iwLp-QAAAh], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:36 - INFO - New chat msg from socket [id: kBgn5Tzbh-iwLp-QAAAh], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:37 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:12:38 - INFO - New connected socket [id: TmLpQ0IFRVlbVXqwAAAj]
+16.9.2025, 17:12:38 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: TmLpQ0IFRVlbVXqwAAAj]
+16.9.2025, 17:12:40 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:12:40 - INFO - New connected socket [id: Oto95kzxrTvGnoLkAAAl]
+16.9.2025, 17:12:40 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: Oto95kzxrTvGnoLkAAAl]
+16.9.2025, 17:12:45 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:46 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:48 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:49 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:50 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:52 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:12:52 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:14:17 - INFO - New chat msg from socket [id: TmLpQ0IFRVlbVXqwAAAj], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:14:18 - INFO - New chat msg from socket [id: TmLpQ0IFRVlbVXqwAAAj], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:18:45 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:18:47 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:18:51 - INFO - New chat msg from socket [id: TmLpQ0IFRVlbVXqwAAAj], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:18:54 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:18:57 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:18:59 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:19:01 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:19:02 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:19:03 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:12 - INFO - New chat msg from socket [id: TmLpQ0IFRVlbVXqwAAAj], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:17 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:20 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:21 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:23 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:25 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:26 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:27 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:28 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:30 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:32 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:33 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:35 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:36 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:38 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:39 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:42 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:43 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:44 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:45 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:46 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:48 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:49 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:50 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:52 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:23:53 - INFO - New chat msg from socket [id: Oto95kzxrTvGnoLkAAAl], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:25:15 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:25:15 - INFO - New connected socket [id: vyYZDGFUWK4ylf2vAAAn]
+16.9.2025, 17:25:15 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: vyYZDGFUWK4ylf2vAAAn]
+16.9.2025, 17:25:37 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:25:37 - INFO - New connected socket [id: PJmAEKD-v32AP84uAAAp]
+16.9.2025, 17:25:37 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: PJmAEKD-v32AP84uAAAp]
+16.9.2025, 17:25:48 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:25:49 - INFO - New connected socket [id: qzJOdWkZCajHh1RLAAAr]
+16.9.2025, 17:25:49 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: qzJOdWkZCajHh1RLAAAr]
+16.9.2025, 17:25:54 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:25:55 - INFO - New connected socket [id: kfcgyfxjIMqaMBQ2AAAt]
+16.9.2025, 17:25:55 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: kfcgyfxjIMqaMBQ2AAAt]
+16.9.2025, 17:26:06 - INFO - New chat msg from socket [id: kfcgyfxjIMqaMBQ2AAAt], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:26:09 - INFO - New chat msg from socket [id: kfcgyfxjIMqaMBQ2AAAt], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:26:12 - INFO - New chat msg from socket [id: qzJOdWkZCajHh1RLAAAr], emitting to topic 68c80a256c4c67aef1553783
+16.9.2025, 17:26:54 - INFO - New connected socket [id: HvSuB91prUYby452AAAw]
+16.9.2025, 17:26:54 - INFO - New connected socket [id: -_b37PBP61V_8g3DAAAx]
+16.9.2025, 17:26:54 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket [id: HvSuB91prUYby452AAAw]
+16.9.2025, 17:26:54 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket [id: -_b37PBP61V_8g3DAAAx]
+16.9.2025, 17:27:24 - INFO - New connected socket [id: hdATX4QbpSoISb9JAAAD]
+16.9.2025, 17:27:24 - INFO - New connected socket [id: gMKYOZFarAXi_5PlAAAE]
+16.9.2025, 17:27:24 - INFO - New connected socket [id: mDNSWfcSnkvPszluAAAF]
+16.9.2025, 17:27:25 - INFO - New connected socket [id: HRtsZLnzeBKg3pwZAAAH]
+16.9.2025, 17:28:29 - INFO - New connected socket [id: hHvSkkXEMcYlsW_jAAAC]
+16.9.2025, 17:28:29 - INFO - New connected socket [id: S9X8J9UKgnhkHXP6AAAD]
+16.9.2025, 17:28:30 - INFO - New connected socket [id: jZqj6MEUWd-GqLdSAAAG]
+16.9.2025, 17:28:30 - INFO - New connected socket [id: watHSNbtiMYBgEy9AAAH]
+16.9.2025, 17:29:23 - INFO - New connected socket [id: ljSgVpV9NLYRZnW5AAAC]
+16.9.2025, 17:29:23 - INFO - New connected socket [id: _7JXE59CMjjmEJfYAAAD]
+16.9.2025, 17:29:28 - INFO - New connected socket [id: KjFraNlK4a6onCEnAAAG]
+16.9.2025, 17:29:28 - INFO - New connected socket [id: CnmYfkNVsarXKd71AAAH]
+16.9.2025, 17:29:37 - INFO - New connected socket [id: QNmcjp4Zz5LkpHrrAAAE]
+16.9.2025, 17:29:37 - INFO - New connected socket [id: wTp47tmihNZbQcQ0AAAF]
+16.9.2025, 17:29:37 - INFO - New connected socket [id: pfU_05WkCDT67HgwAAAG]
+16.9.2025, 17:29:37 - INFO - New connected socket [id: BydRNwRW_fu7idFRAAAH]
+16.9.2025, 17:29:47 - INFO - New connected socket [id: it-OCi01S14SmdY_AAAB]
+16.9.2025, 17:29:48 - INFO - New connected socket [id: H1xEkpj0W3z2Jcp1AAAF]
+16.9.2025, 17:29:48 - INFO - New connected socket [id: 8SyTlZCgG7j0_eE2AAAG]
+16.9.2025, 17:29:48 - INFO - New connected socket [id: XrAAKqQysWGv78bzAAAH]
+16.9.2025, 17:29:50 - INFO - New connected socket [id: pDPLH-y8U2ZchBe_AAAE]
+16.9.2025, 17:29:50 - INFO - New connected socket [id: m8AVa2Kn40grPf2WAAAF]
+16.9.2025, 17:29:50 - INFO - New connected socket [id: L6KICcnm5cJNuBEoAAAG]
+16.9.2025, 17:29:50 - INFO - New connected socket [id: on9bDfq86bObZAWeAAAH]
+16.9.2025, 17:29:59 - INFO - User[socketId: L6KICcnm5cJNuBEoAAAG]deleted a chat message. Emitting to topic: undefined
+16.9.2025, 17:30:03 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:30:03 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:30:03 - INFO - New connected socket [id: QzAZVTxsY_pDUexWAAAJ]
+16.9.2025, 17:30:03 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket[id: QzAZVTxsY_pDUexWAAAJ]
+16.9.2025, 17:30:04 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:30:04 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:30:04 - INFO - New connected socket [id: WIhpI39f3JOQHt88AAAL]
+16.9.2025, 17:30:04 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket[id: WIhpI39f3JOQHt88AAAL]
+16.9.2025, 17:30:14 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:14 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:15 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:15 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:16 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:17 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:17 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:18 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:18 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:19 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:22 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:23 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:23 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:24 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:24 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:25 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:26 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:26 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:27 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:28 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:29 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:29 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:30 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:30 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:31 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:32 - INFO - User[socketId: WIhpI39f3JOQHt88AAAL]deleted a chat message. Emitting to topic: 68c80a256c4c67aef1553783
+16.9.2025, 17:30:34 - INFO - Socket disconnected [id: undefined]
+16.9.2025, 17:30:35 - INFO - New connected socket [id: ZkOrQH2En5aeZeHfAAAN]
+16.9.2025, 17:30:35 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket[id: ZkOrQH2En5aeZeHfAAAN]
+16.9.2025, 17:31:02 - INFO - New connected socket [id: oylyksdW_9DsvW1IAAAP]
+16.9.2025, 17:31:02 - INFO - Setting socket.userId = 68c94b5a6f0f045b69e52653 for socket[id: oylyksdW_9DsvW1IAAAP]
+16.9.2025, 17:31:02 - INFO - New connected socket [id: LjaeAqgpdgHE_QWSAAAR]
+16.9.2025, 17:31:02 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket[id: LjaeAqgpdgHE_QWSAAAR]
