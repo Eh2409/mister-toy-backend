@@ -11,21 +11,25 @@ import { reviewRoutes } from './api/review/review.routes.js'
 
 const app = express()
 
-const corsOptions = {
-    origin: [
-        'http://127.0.0.1:8080',
-        'http://localhost:8080',
-        'http://127.0.0.1:5173',
-        'http://localhost:5173',
-    ],
-    credentials: true
-}
-
-
 app.use(express.static('public'))
 app.use(cookieParser())
 app.use(express.json())
-app.use(cors(corsOptions))
+
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static(path.resolve('public')))
+} else {
+    const corsOptions = {
+        origin: [
+            'http://127.0.0.1:8080',
+            'http://localhost:8080',
+            'http://127.0.0.1:5173',
+            'http://localhost:5173',
+        ],
+        credentials: true
+    }
+    app.use(cors(corsOptions))
+}
+
 app.set('query parser', 'extended')
 
 
