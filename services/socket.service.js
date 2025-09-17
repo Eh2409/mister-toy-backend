@@ -31,6 +31,10 @@ export function setupSocketAPI(http) {
             loggerService.info(`User[socketId: ${socket.id}]deleted a chat message. Emitting to topic: ${socket.myTopic}`)
             socket.to(socket.myTopic).emit('chat-remove-msg', msgId)
         })
+        socket.on('emit-user-typing', username => {
+            loggerService.info(`User [socketId: ${socket.id}] is typing in topic: ${socket.myTopic}`)
+            socket.to(socket.myTopic).emit('event-user-typing', username)
+        })
         socket.on('user-watch', userId => {
             loggerService.info(`user - watch from socket[id: ${socket.id}], on user ${userId}`)
             socket.join('watching:' + userId)
