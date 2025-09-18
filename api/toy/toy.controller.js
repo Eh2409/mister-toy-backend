@@ -53,7 +53,7 @@ export async function addToy(req, res) {
 
     const { name, imgUrls, price, brands, productTypes, companies, inStock, description } = toy
 
-    if (!name || !price || !inStock || !description) {
+    if (!name || !price || !description) {
         return res.status(400).send('Required fields are missing')
     }
 
@@ -76,9 +76,9 @@ export async function updateToy(req, res) {
     const { loggedinUser } = req
     const toy = req.body
 
-    const { _id, name, imgUrls, price, inStock, description } = toy
+    const { _id, name, price, description } = toy
 
-    if (!_id || !name || !price || !inStock || !description) {
+    if (!_id || !name || !price || !description) {
         return res.status(400).send('Required fields are missing')
     }
 
