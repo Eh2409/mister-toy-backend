@@ -3489,3 +3489,39 @@
 18.9.2025, 16:33:25 - INFO - Setting socket.userId = 68c7cbe4123e24873a5cf139 for socket[id: hWfT6e7xLQcMmW_PAAAD]
 18.9.2025, 16:33:27 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
 18.9.2025, 16:33:27 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:35:12 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:35:12 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
+18.9.2025, 16:41:20 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:41:20 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
+18.9.2025, 16:41:21 - INFO - Socket is leaving topic 68c7c5cdbbd03fcb5ab02a69 [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:44:44 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:44:44 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
+18.9.2025, 16:44:45 - INFO - Socket is leaving topic 68cc0c00565fb4deb6da02ab [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:48:27 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:48:27 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
+18.9.2025, 16:48:28 - INFO - Socket is leaving topic 68cc0ccc565fb4deb6da02ac [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:51:08 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:51:08 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
+18.9.2025, 16:51:08 - INFO - Socket is leaving topic 68cc0dab565fb4deb6da02ad [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:56:03 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:56:03 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
+18.9.2025, 16:56:03 - INFO - Socket is leaving topic 68cc0e4c565fb4deb6da02ae [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:57:46 - INFO - Broadcasting event: admin-update-site 
+18.9.2025, 16:57:46 - INFO - Broadcast to all excluding user: 68c7cbe4123e24873a5cf139 
+18.9.2025, 16:57:46 - INFO - Socket is leaving topic 68cc0f73565fb4deb6da02af [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:58:47 - INFO - Socket is leaving topic 68cc0fda565fb4deb6da02b0 [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:59:35 - INFO - Removing socket.userId for socket[id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:59:54 - INFO - Setting socket.userId = 68cc105a565fb4deb6da02b3 for socket[id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 16:59:55 - INFO - Socket is leaving topic 68cc0f73565fb4deb6da02af [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 17:00:25 - INFO - Socket is leaving topic 68cc0fda565fb4deb6da02b0 [id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 17:01:17 - INFO - Removing socket.userId for socket[id: hWfT6e7xLQcMmW_PAAAD]
+18.9.2025, 17:06:59 - INFO - Socket disconnected [id: undefined]
+18.9.2025, 17:07:00 - INFO - New connected socket [id: aKZNQQqKtKxrFt8fAAAF]
+18.9.2025, 17:07:19 - INFO - Socket disconnected [id: undefined]
+18.9.2025, 17:07:19 - INFO - New connected socket [id: hgHwK3j_NgVVKpCfAAAH]
+18.9.2025, 17:08:23 - INFO - New connected socket [id: 2SIBiXWxoevqYJjxAAAB]
+18.9.2025, 17:12:31 - INFO - Socket disconnected [id: undefined]
+18.9.2025, 17:12:32 - INFO - New connected socket [id: 3WlwbLXslVYib4twAAAD]
+18.9.2025, 17:12:48 - INFO - Socket disconnected [id: undefined]
+18.9.2025, 17:12:48 - INFO - New connected socket [id: uyfESuZCYFdMQtqfAAAF]
+18.9.2025, 17:16:13 - INFO - New connected socket [id: nEQRyJzFIX8408_AAAAB]
